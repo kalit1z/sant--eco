@@ -29,7 +29,7 @@ const Pagination = ({ section, currentPage, totalPages }) => {
               className="rounded-lg border border-primary px-2 py-2 text-dark"
             >
               <>
-                <span className="sr-only">Previous</span>
+                <span className="sr-only">Précédent</span>
                 <svg
                   className="mt-1 h-5 w-5"
                   xmlns="http://www.w3.org/2000/svg"
@@ -48,7 +48,7 @@ const Pagination = ({ section, currentPage, totalPages }) => {
           ) : (
             <span className="rounded-lg border border-primary px-2 py-2 text-dark">
               <>
-                <span className="sr-only">Previous</span>
+                <span className="sr-only">Précédent</span>
                 <svg
                   className="mt-1 h-5 w-5"
                   xmlns="http://www.w3.org/2000/svg"
@@ -100,7 +100,7 @@ const Pagination = ({ section, currentPage, totalPages }) => {
               className="rounded-lg border border-primary px-2 py-2 text-dark"
             >
               <>
-                <span className="sr-only">Next</span>
+                <span className="sr-only">Suivant</span>
                 <svg
                   className="mt-1 h-5 w-5"
                   xmlns="http://www.w3.org/2000/svg"
@@ -119,7 +119,7 @@ const Pagination = ({ section, currentPage, totalPages }) => {
           ) : (
             <span className="rounded-lg border border-primary px-2 py-2 text-dark">
               <>
-                <span className="sr-only">Next</span>
+                <span className="sr-only">Suivant</span>
                 <svg
                   className="mt-1 h-5 w-5"
                   xmlns="http://www.w3.org/2000/svg"

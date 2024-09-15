@@ -1,12 +1,12 @@
 {
   "site": {
-    "title": "Bookworm Next | Personal Blog Theme",
+    "title": "Jardins Passion | Expert en Potagers",
     "base_url": "/",
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",
-    "logo_width": "200",
-    "logo_height": "34",
-    "logo_text": "Bookworm Light"
+    "logo_width": "234",
+    "logo_height": "50",
+    "logo_text": "Jardins Passion"
   },
 
   "settings": {
@@ -17,13 +17,13 @@
 
   "params": {
     "tag_manager_id": "",
-    "contact_form_action": "#",
-    "copyright": "Copyright © 2022 a theme by [themefisher](https://themefisher.com)"
+    "contact_form_action": "https://formspree.io/f/xkndjywo",
+    "copyright": "© 2024 Jardins Passion. Tous droits réservés."
   },
 
   "metadata": {
-    "meta_author": "Themefisher",
-    "meta_image": "/images/og-image.png",
-    "meta_description": "Next Boilerplate"
+    "meta_author": "Équipe Jardins Passion",
+    "meta_image": "/images/favicon.png",
+    "meta_description": "Jardins Passion : votre guide expert pour créer et entretenir un potager productif. Conseils, astuces et techniques pour cultiver vos propres fruits et légumes."
   }
 }

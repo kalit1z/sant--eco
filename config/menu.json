@@ -1,61 +1,45 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "Accueil",
       "url": "/"
     },
     {
-      "name": "About",
-      "url": "/about"
+      "name": "À Propos",
+      "url": "/a-propos"
     },
     {
-      "name": "Contact",
-      "url": "/contact"
-    },
-    {
-      "name": "Pages",
+      "name": "Catégories",
       "url": "",
       "hasChildren": true,
       "children": [
         {
-          "name": "Authors",
-          "url": "/authors"
+          "name": "Planter",
+          "url": "/categories/planter-votre-potager"
         },
         {
-          "name": "Categories",
-          "url": "/categories"
+          "name": "Entretenir",
+          "url": "/categories/entretenir-votre-potager"
         },
         {
-          "name": "Tags",
-          "url": "/tags"
-        },
-        {
-          "name": "Elements",
-          "url": "/elements"
-        },
-        {
-          "name": "Privacy Policy",
-          "url": "/privacy-policy"
+          "name": "Récolter",
+          "url": "/categories/recolter-votre-potager"
         }
       ]
     }
   ],
   "footer": [
     {
-      "name": "About",
-      "url": "/about"
+      "name": "Auteurs",
+      "url": "/authors"
     },
     {
       "name": "Contact",
       "url": "/contact"
     },
     {
-      "name": "Elements",
-      "url": "/elements"
-    },
-    {
-      "name": "Privacy Policy",
-      "url": "/privacy-policy"
+      "name": "Légales",
+      "url": "/mentions-legales"
     }
   ]
 }

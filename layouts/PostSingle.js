@@ -9,7 +9,7 @@ import MDXContent from "./partials/MDXContent";
 
 const PostSingle = ({ post, posts, authors, slug }) => {
   const { frontmatter, content } = post;
-  let { description, title, date, image, categories, tags } = frontmatter;
+  let { description, title, date, image, categories, tags, imageAlt } = frontmatter;
   description = description ? description : content.slice(0, 120);
   const similarPosts = similerItems(post, posts, slug);
 
@@ -65,10 +65,11 @@ const PostSingle = ({ post, posts, authors, slug }) => {
             {image && (
               <Image
                 src={image}
-                height={500}
-                width={1000}
-                alt={title}
+                height={400}
+                width={700}
+                alt={imageAlt}
                 className="rounded-lg"
+                style={{ display: 'block', marginLeft: 'auto', marginRight: 'auto' }}
               />
             )}
             <div className="content mb-16 text-left">
@@ -100,7 +101,7 @@ const PostSingle = ({ post, posts, authors, slug }) => {
       {similarPosts && similarPosts.length > 0 && (
         <section className="section">
           <div className="container">
-            <h2 className="mb-8 text-center">Similar Posts</h2>
+            <h2 className="mb-8 text-center">Continuer votre lecture avec :</h2>
             <SimilarPosts posts={similarPosts.slice(0, 3)} />
           </div>
         </section>

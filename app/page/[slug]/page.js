@@ -3,26 +3,75 @@ import config from "@config/config.json";
 import SeoMeta from "@layouts/partials/SeoMeta";
 import { getSinglePage } from "@lib/contentParser";
 import Posts from "@partials/Posts";
+import { markdownify } from "@lib/utils/textConverter";
+import Image from "next/image";
+
 const { blog_folder } = config.settings;
 
-// blog pagination
 const BlogPagination = async ({ params }) => {
-  const currentPage = parseInt((params && params.slug) || 1);
+  const currentPage = parseInt(params.slug) || 1;
   const { pagination } = config.settings;
   const posts = await getSinglePage(`content/${blog_folder}`);
   const authors = await getSinglePage("content/authors");
-  const indexOfLastPost = currentPage * pagination;
-  const indexOfFirstPost = indexOfLastPost - pagination;
-  const totalPages = Math.ceil(posts.length / pagination);
+
+  const postsPerPage = Math.max(5, pagination);
+  const indexOfLastPost = currentPage * postsPerPage;
+  const indexOfFirstPost = indexOfLastPost - postsPerPage;
+  const totalPages = Math.ceil(posts.length / postsPerPage);
   const currentPosts = posts.slice(indexOfFirstPost, indexOfLastPost);
+
+  // Récupérer les données de la page d'accueil
+  const homePageData = await getSinglePage("content");
+  const homePage = homePageData.find(page => page.slug === "home");
+  const { frontmatter, content } = homePage || {};
+  const { title, image, imageAlt } = frontmatter || {};
+
+  // CTA de newsletter
+  const NewsletterCTA = () => (
+    <div style={{textAlign: "center", backgroundColor: "#f0f8f0", padding: "20px", margin: "30px 0", borderRadius: "8px"}}>
+      <p style={{fontSize: "24px", color: "#333333", marginBottom: "15px"}}>
+        <strong>Cultivez votre passion du jardinage !</strong>
+      </p>
+      <p style={{fontSize: "16px", color: "#555555", marginBottom: "20px"}}>
+        Recevez nos meilleurs conseils de jardinage directement dans votre boîte mail.
+      </p>
+      <a href="https://www.fastercook.fr/letter-potager" target="_blank" rel="noopener noreferrer" style={{display: "inline-block", backgroundColor: "#099141", color: "white", padding: "10px 20px", textDecoration: "none", borderRadius: "5px", fontWeight: "bold"}}>
+        S'inscrire à la newsletter
+      </a>
+    </div>
+  );
 
   return (
     <>
-      <SeoMeta title="Blog Pagination" />
+      <SeoMeta title={currentPage === 1 ? title : `Page ${currentPage}`} />
       <section className="section">
         <div className="container">
+          {currentPage === 1 && (
+            <div className="text-center mb-16">
+              {title && markdownify(title, "h1", "mb-8")}
+              {image && (
+                <div className="mb-8">
+                  <div className="flex justify-center mb-8">
+                <Image
+                  src={image}
+                  alt={imageAlt}
+                  width={800}
+                  height={300}
+                  layout="intrinsic"
+                  className="rounded-lg"
+                />
+              </div>
+                </div>
+              )}
+              <div className="content">
+                {markdownify(content)}
+              </div>
+            </div>
+          )}
+
           <Posts className="mb-16" posts={currentPosts} authors={authors} />
           <Pagination totalPages={totalPages} currentPage={currentPage} />
+          <NewsletterCTA />
         </div>
       </section>
     </>
@@ -31,19 +80,16 @@ const BlogPagination = async ({ params }) => {
 
 export default BlogPagination;
 
-// get blog pagination slug
 export async function generateStaticParams() {
-  const getAllSlug = await getSinglePage(`content/${blog_folder}`);
-  const allSlug = getAllSlug.map((item) => item.slug);
+  const posts = await getSinglePage(`content/${blog_folder}`);
   const { pagination } = config.settings;
-  const totalPages = Math.ceil(allSlug.length / pagination);
+  const postsPerPage = Math.max(5, pagination);
+  const totalPages = Math.ceil(posts.length / postsPerPage);
+  
   let paths = [];
-
-  for (let i = 1; i < totalPages; i++) {
-    paths.push({
-      slug: (i + 1).toString(),
-    });
+  for (let i = 1; i <= totalPages; i++) {
+    paths.push({ slug: i.toString() });
   }
-
+  
   return paths;
 }

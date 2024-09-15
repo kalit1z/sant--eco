@@ -36,12 +36,12 @@ const SearchResults = ({ authors }) => {
     <>
       <SeoMeta title={`Search results for ${key}`} />
       <h1 className="h2 mb-8 text-center">
-        Search results for <span className="text-primary">{key}</span>
+        Résultats de recherche pour <span className="text-primary">{key}</span>
       </h1>
       {searchResults.length > 0 ? (
         <Posts posts={searchResults} authors={authors} />
       ) : (
-        <div className="py-24 text-center text-h3 shadow">No Search Found</div>
+        <div className="py-24 text-center text-h3 shadow">Aucune recherche trouvée</div>
       )}
     </>
   );
