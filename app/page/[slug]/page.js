@@ -41,33 +41,43 @@ const BlogPagination = async ({ params }) => {
     </div>
   );
 
+  // Fonction pour modifier le contenu
+  const modifyContent = (content) => {
+    // Modifier les images dans le contenu
+    content = content.replace(/<img(.+?)>/g, '<img$1 width="500" height="300" style="display: block; margin: auto; border-radius: 10px;" />');
+    
+    // Modifier les liens dans le contenu
+    content = content.replace(/<a(.+?)>(.*?)<\/a>/g, '<div style="text-align: center;"><a$1 style="color: green; font-weight: bold;">$2</a></div>');
+    
+    return content;
+  };
+
   return (
     <>
       <SeoMeta title={currentPage === 1 ? title : `Page ${currentPage}`} />
       <section className="section">
         <div className="container">
           {currentPage === 1 && (
-            <div className="text-center mb-16">
+            <div className="text-left mb-16">
               {title && markdownify(title, "h1", "mb-8")}
               {image && (
                 <div className="mb-8">
                   <div className="flex justify-center mb-8">
-                <Image
-                  src={image}
-                  alt={imageAlt}
-                  width={800}
-                  height={300}
-                  layout="intrinsic"
-                  className="rounded-lg"
-                />
-              </div>
+                    <Image
+                      src={image}
+                      alt={imageAlt}
+                      width={800}
+                      height={300}
+                      layout="intrinsic"
+                      className="rounded-lg"
+                    />
+                  </div>
                 </div>
               )}
-              <div className="content">
-                {markdownify(content)}
-              </div>
+              <div className="content" style={{textAlign: "left"}} dangerouslySetInnerHTML={{ __html: modifyContent(content) }} />
             </div>
           )}
+          <NewsletterCTA />
 
           <Posts className="mb-16" posts={currentPosts} authors={authors} />
           <Pagination totalPages={totalPages} currentPage={currentPage} />
