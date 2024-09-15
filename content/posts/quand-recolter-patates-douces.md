@@ -2,7 +2,7 @@
 title: "Quand récolter les patates douces : Guide complet pour une récolte parfaite"
 meta_title: "Quand récolter la patate douce | Techniques de récolte efficaces"
 description: "Découvrez le moment idéal et les meilleures techniques pour récolter vos patates douces. Notre guide expert vous assure une récolte abondante et de qualité, que ce soit en pleine terre ou en pot."
-date: 2024-09-12
+date: 2024-09-15
 image: "/images/posts/patate-douce/zoompatate.webp"
 imageAlt: "Patates douces matures, montrant la couleur et la taille idéales pour une récolte parfaite"
 categories: ["Recolter votre potager"]
