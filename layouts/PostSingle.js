@@ -1,4 +1,3 @@
-import Share from "@components/Share";
 import dateFormat from "@lib/utils/dateFormat";
 import similerItems from "@lib/utils/similarItems";
 import { humanize, markdownify, slugify } from "@lib/utils/textConverter";
@@ -88,12 +87,6 @@ const PostSingle = ({ post, posts, authors, slug }) => {
                   </li>
                 ))}
               </ul>
-              <Share
-                className="social-share mb-4"
-                title={title}
-                description={description}
-                slug={slug}
-              />
             </div>
           </article>
         </div>
