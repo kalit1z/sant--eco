@@ -7,7 +7,7 @@ image: "/images/posts/patate-douce/zoompatate.webp"
 imageAlt: "Patates douces matures, montrant la couleur et la taille idéales pour une récolte parfaite"
 categories: ["Recolter votre potager"]
 authors: ["Jade Orlanal"]
-tags: ["patate douce", "cueillette", "culture"]
+tags: ["patate douce", "cueillette"]
 draft: false
 ---
 

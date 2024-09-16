@@ -94,7 +94,7 @@ const PostSingle = ({ post, posts, authors, slug }) => {
       {similarPosts && similarPosts.length > 0 && (
         <section className="section">
           <div className="container">
-            <h2 className="mb-8 text-center">Continuer votre lecture avec :</h2>
+            <h3 className="mb-8 text-center">Continuer votre lecture avec :</h3>
             <SimilarPosts posts={similarPosts.slice(0, 3)} />
           </div>
         </section>
