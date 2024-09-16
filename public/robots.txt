@@ -1,6 +1,9 @@
+# *
 User-agent: *
 Allow: /
 
-Disallow: /home
+# Host
+Host: https://www.jardins-passion.fr
 
-Disallow: /api/*
+# Sitemaps
+Sitemap: https://www.jardins-passion.fr/sitemap.xml
