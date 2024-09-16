@@ -1,6 +1,6 @@
 ---
 title: "Quand et comment arroser les tomates : Astuces pour réussir"
-meta_title: "Arroser les Tomates : Quand et Comment | Conseils d'Experts"
+meta_title: "Quand Arroser ses Tomates ? Comment ? Guide du Jardinier"
 description: "Découvrez les meilleures techniques pour arroser vos tomates. Timing, quantité, méthodes : tous les secrets pour des plants vigoureux et productifs."
 date: 2024-09-17
 image: "/images/posts/tomates/tomatesmouiller.webp"
