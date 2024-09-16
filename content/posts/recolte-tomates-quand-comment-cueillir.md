@@ -227,4 +227,7 @@ La récolte est aussi le moment idéal pour évaluer votre saison : notez les va
 
 Enfin, n'oubliez pas que le plaisir de cultiver ses propres tomates réside autant dans le processus que dans le résultat. Profitez de chaque étape, depuis les premiers semis jusqu'à la dernière tomate cueillie. Et surtout, savourez le fruit de votre travail, que ce soit dans une simple salade, une sauce maison ou simplement croqué à pleines dents directement dans le jardin.
 
+Pour approfondir vos connaissances sur la culture des tomates, n'hésitez pas à consulter nos articles sur [Quand et comment planter les tomates](quand-planter-tomates-guide-complet-reussir) et [Comment arroser correctement les tomates](quand-comment-arroser-tomates-astuces-reussir). Ces guides vous permettront de maîtriser chaque étape cruciale, de la plantation à l'arrosage, afin de garantir une croissance optimale de vos plants.
+
+
 Bonne récolte et bon appétit !

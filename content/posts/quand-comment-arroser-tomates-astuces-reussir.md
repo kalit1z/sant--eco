@@ -227,4 +227,6 @@ Rappelez-vous que chaque jardin est unique. Les recommandations générales doiv
 
 Un bon arrosage est la clé d'une récolte abondante et savoureuse. Avec de la patience et de l'observation, vous développerez une intuition pour les besoins en eau de vos tomates, vous permettant de produire des fruits juteux et pleins de saveur, que ce soit en pleine terre, en pot ou sous serre.
 
+Pour approfondir vos connaissances sur la culture des tomates, n'hésitez pas à consulter nos articles sur [Quand et comment planter les tomates](quand-planter-tomates-guide-complet-reussir) et [Quand et comment récolter les tomates](recolte-tomates-quand-comment-cueillir). Ces guides vous aideront à maîtriser chaque étape de la croissance de vos tomates, de la plantation à la récolte.
+
 Enfin, n'oubliez pas que l'arrosage n'est qu'un aspect de la culture des tomates. Combinez-le avec d'autres bonnes pratiques comme la fertilisation adaptée, le tuteurage et la taille régulière pour obtenir les meilleurs résultats possibles. Bon jardinage !

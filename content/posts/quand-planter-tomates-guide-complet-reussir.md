@@ -61,6 +61,12 @@ Au-delà du climat régional, plusieurs facteurs locaux peuvent influencer le mo
 | Variété de tomate | Les variétés précoces peuvent être plantées plus tôt | Choisissez des variétés adaptées à votre climat |
 | Dernière date de gelée | Critère crucial pour éviter les dommages dus au froid | Consultez les données météo locales des années précédentes |
 
+**Maîtrisez l'art de l'arrosage des tomates !**
+
+Un arrosage optimal est crucial pour la santé et la productivité de vos plants de tomates. Découvrez les techniques d'arrosage adaptées à chaque stade de croissance et apprenez à reconnaître les signes de sur-arrosage ou de sous-arrosage.
+
+[Apprenez à bien arroser vos tomates →](quand-comment-arroser-tomates-astuces-reussir)
+
 ## Techniques pour une plantation réussie
 
 Une fois que vous avez déterminé le bon moment pour planter vos tomates, voici quelques techniques pour optimiser leur croissance dès le départ :
@@ -143,3 +149,9 @@ Enfin, rappelez-vous que même les jardiniers les plus expérimentés connaissen
 Alors, que vous soyez un novice enthousiaste ou un jardinier chevronné, lancez-vous dans l'aventure. Observez, expérimentez, ajustez vos méthodes. Avec le temps, la patience et la pratique, vous développerez un véritable "pouce vert" pour les tomates. Et rien n'égale la satisfaction de déguster une tomate fraîchement cueillie, gorgée de soleil et de saveurs, que vous avez cultivée de vos propres mains.
 
 Préparez vos outils, choisissez vos variétés préférées, et laissez la magie du jardinage opérer. Votre prochaine récolte de tomates pourrait bien être la meilleure que vous ayez jamais eue. Bon jardinage, et que votre saison soit riche en découvertes et en délicieuses tomates !
+
+**Récoltez des tomates savoureuses au bon moment !**
+
+Savoir quand et comment récolter vos tomates fait toute la différence dans leur goût et leur qualité. Apprenez à reconnaître les signes de maturité et découvrez les meilleures techniques pour une récolte réussie.
+
+[Découvrez les secrets d'une récolte parfaite →](recolte-tomates-quand-comment-cueillir)
