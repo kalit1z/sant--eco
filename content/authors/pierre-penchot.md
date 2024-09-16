@@ -1,7 +1,8 @@
 ---
 title: Pierre Penchot
 image: /images/authors/pierre.webp
-description: Passionné de permaculture et cultures biologiques chez Jardins Passion. Découvrez l'approche naturelle de Pierre pour un potager productif et épanouissant.
+meta_title: "Pierre Penchot : Expert Jardinier chez Jardins Passion"
+description: "Passionné de permaculture et cultures biologiques chez Jardins Passion. Découvrez l'approche naturelle de Pierre pour un potager productif et épanouissant."
 social:
   facebook: 
   twitter: 

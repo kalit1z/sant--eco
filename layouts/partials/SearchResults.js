@@ -34,7 +34,7 @@ const SearchResults = ({ authors }) => {
   });
   return (
     <>
-      <SeoMeta title={`Search results for ${key}`} />
+      <SeoMeta title={`Search results for ${key}`} noIndex={true} />
       <h1 className="h2 mb-8 text-center">
         Résultats de recherche pour <span className="text-primary">{key}</span>
       </h1>

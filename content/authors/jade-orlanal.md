@@ -1,7 +1,8 @@
 ---
 title: Jade Orlanal
 image: /images/authors/jade.webp
-description: Spécialiste passionnée du maraîchage urbain et des cultures innovantes chez Jardins Passion. Découvrez les techniques de Jade pour un potager urbain productif et créatif.
+meta_title: "Jade Orlanal : Spécialiste Jardin chez Jardins Passion"
+description: "Spécialiste passionnée du maraîchage urbain et des cultures innovantes chez Jardins Passion. Découvrez les techniques de Jade pour un potager urbain productif et créatif."
 social:
   facebook:
   twitter: 
