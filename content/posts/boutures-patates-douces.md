@@ -1,6 +1,6 @@
 ---
 title: "Boutures de patates douces : Techniques efficaces"
-meta_title: "Comment faire des boutures de patates douces | Techniques efficaces"
+meta_title: "Comment faire des boutures de patates douces"
 description: "Découvrez les meilleures techniques pour réaliser des boutures de patates douces. Notre guide expert vous accompagne étape par étape pour une multiplication réussie de vos plants."
 date: 2024-09-16
 image: "/images/posts/patate-douce/miseenterrepatate.webp"

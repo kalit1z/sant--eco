@@ -1,6 +1,6 @@
 ---
 title: "Tailler les framboisiers : Techniques pour remontants et non remontants"
-meta_title: "Quand tailler un framboisier : Techniques pour remontants et non remontants"
+meta_title: "Quand tailler un framboisier remontants et non remontants"
 description: "Découvrez quand et comment tailler vos framboisiers remontants et non remontants. Techniques expertes, calendrier de taille et conseils pour maximiser votre récolte de framboises."
 date: 2024-09-13
 image: "/images/posts/framboise/planteframboisier.webp"
