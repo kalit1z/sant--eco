@@ -1,5 +1,5 @@
 ---
-title: "Planter votre potager : Conseils et astuces pour un jardin productif"
+title: "Planter votre potager : Conseils pour un jardin productif"
 meta_title: "Comment planter un potager | Conseils pour débutants et experts"
 description: "Apprenez à planter votre potager comme un pro. Conseils sur le choix des légumes, la préparation du sol, les techniques de semis et de plantation pour un potager réussi et abondant."
 ---

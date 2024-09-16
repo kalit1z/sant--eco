@@ -23,7 +23,7 @@ const AuthorPagination = async ({ params }) => {
 
   return (
     <>
-      <SeoMeta title={title} />
+      <SeoMeta title={title} noIndex={true}/>
       <section className="section">
         <div className="container text-center">
           {markdownify(title, "h1", "h2 mb-16")}

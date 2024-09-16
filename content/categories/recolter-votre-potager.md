@@ -1,5 +1,5 @@
 ---
-title: "Récolter votre potager : Conseils et astuces pour une cueillette réussie"
+title: "Récolter votre potager : Conseils pour une cueillette réussie"
 meta_title: "Comment récolter son potager | Guide pour une cueillette optimale"
 description: "Découvrez les meilleures techniques pour récolter les fruits de votre potager. Conseils d'experts sur le timing, les méthodes de cueillette et la conservation pour profiter pleinement de vos légumes."
 ---

@@ -12,7 +12,7 @@ social:
 ---
 
 
-## Bienvenue chez Jardins Passion : Votre Guide Expert du Potager
+# Bienvenue chez Jardins Passion : Votre Guide Expert du Potager
 
 Chez Jardins Passion, nous croyons au pouvoir transformateur du jardinage potager. Notre mission est de vous guider vers la création d'un potager productif, durable et en harmonie avec la nature.
 

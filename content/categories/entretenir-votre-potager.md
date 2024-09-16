@@ -1,5 +1,5 @@
 ---
-title: "Entretenir votre potager : Conseils et astuces pour un jardin productif"
+title: "Entretenir votre potager : Conseils pour un jardin productif"
 meta_title: "Entretien du potager | Guide complet pour un jardin florissant"
 description: "Découvrez les meilleures techniques pour entretenir votre potager. Conseils d'experts sur l'arrosage, le désherbage, la fertilisation et la lutte contre les nuisibles pour une récolte abondante."
 ---
