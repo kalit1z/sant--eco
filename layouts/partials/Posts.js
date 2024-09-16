@@ -66,11 +66,11 @@ const Posts = ({ posts, className, authors }) => {
               </ul>
             </li>
           </ul>
-          <h3 className="mb-2">
+          <h4 className="mb-2">
             <Link href={`/${post.slug}`} className="block hover:text-primary">
               {post.frontmatter.title}
             </Link>
-          </h3>
+          </h4>
           <p className="text-text">
             {post.content && post.content.slice(0, Number(summary_length))}...
           </p>
