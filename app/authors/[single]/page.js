@@ -16,13 +16,11 @@ const Article = async ({ params }) => {
 
   // Préparer les métadonnées SEO
   const seoTitle = frontmatter.meta_title || frontmatter.title;
-  const description = frontmatter.description || `Profil et articles de ${frontmatter.title}.`;
 
   return (
     <>
       <SeoMeta
         title={seoTitle}
-        description={description}
         image={frontmatter.image}
         canonical={`/authors/${single}`}
       />
