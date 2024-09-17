@@ -19,11 +19,12 @@ const NewsletterCTA = () => (
 );
 
 const AuthorSingle = ({ frontmatter, content }) => {
-  const { description, social, title, image } = frontmatter;
+  const { description, social, title, meta_title, image } = frontmatter;
 
   return (
     <>
       <SeoMeta
+        title={meta_title || title}
         description={description ? description : content.slice(0, 120)}
       />
       <section className="section">
