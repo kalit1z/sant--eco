@@ -22,32 +22,17 @@ const AuthorPagination = async ({ params }) => {
   const totalPages = Math.ceil(authors.length / pagination);
   const currentAuthors = authors.slice(indexOfFirstAuthor, indexOfLastAuthor);
   const { frontmatter, content } = authorIndex;
-  const { title, meta_title, description } = frontmatter;
-
-  // Generate SEO title
-  const seoTitle = meta_title 
-    ? meta_title 
-    : `${title} - Page ${currentPage} sur ${totalPages}`;
+  const { title } = frontmatter;
 
   // Generate meta description
-  const metaDescription = description 
-    ? description 
-    : `Liste des auteurs - Page ${currentPage} sur ${totalPages}. ${content.slice(0, 150)}...`;
+  const metaDescription = `Liste des auteurs - Page ${currentPage} sur ${totalPages}. ${content.slice(0, 150)}...`;
   const wordCount = countWords(metaDescription);
-
-  // Generate canonical URL
-  const baseUrl = config.site.base_url;
-  const canonicalUrl = currentPage === 1 
-    ? `${baseUrl}/authors/` 
-    : `${baseUrl}/authors/page/${currentPage}/`;
 
   return (
     <>
       <SeoMeta 
-        title={seoTitle}
-        meta_title={meta_title}
+        title={title} 
         description={`${metaDescription} (${wordCount} mots)`}
-        canonical={canonicalUrl}
       />
       <section className="section">
         <div className="container text-center">

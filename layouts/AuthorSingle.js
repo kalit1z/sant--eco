@@ -24,7 +24,6 @@ const AuthorSingle = ({ frontmatter, content }) => {
   return (
     <>
       <SeoMeta
-        title={title}
         description={description ? description : content.slice(0, 120)}
       />
       <section className="section">
