@@ -17,6 +17,7 @@ const SearchPage = async () => {
         title={pageTitle}
         meta_title={metaTitle}
         description={metaDescription}
+        noindex={true}
       />
       <div className="section">
         <div className="container">
