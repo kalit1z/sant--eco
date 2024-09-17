@@ -34,14 +34,14 @@ const Authors = ({ authors }) => {
                   />
                 </div>
               )}
-              <h3 className="h4 mb-2">
+              <h2 className="h4 mb-2">
                 <Link
                   href={`/authors/${author.slug}`}
                   className="block hover:text-primary"
                 >
                   {author.frontmatter.title}
                 </Link>
-              </h3>
+              </h2>
               {author.frontmatter.description && (
                 <p className="text-center">{author.frontmatter.description}</p>
               )}
