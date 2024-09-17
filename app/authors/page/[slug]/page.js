@@ -5,11 +5,6 @@ import { getListPage, getSinglePage } from "@lib/contentParser";
 import { markdownify } from "@lib/utils/textConverter";
 import Authors from "@partials/Authors";
 
-// Function to count words in a string
-const countWords = (str) => {
-  return str.trim().split(/\s+/).length;
-};
-
 // blog pagination
 const AuthorPagination = async ({ params }) => {
   const currentPage = parseInt((params && params.slug) || 1);
@@ -22,17 +17,26 @@ const AuthorPagination = async ({ params }) => {
   const totalPages = Math.ceil(authors.length / pagination);
   const currentAuthors = authors.slice(indexOfFirstAuthor, indexOfLastAuthor);
   const { frontmatter, content } = authorIndex;
-  const { title } = frontmatter;
+  const { title, meta_title, description } = frontmatter;
+
+  // Generate SEO title
+  const seoTitle = meta_title || title;
 
   // Generate meta description
-  const metaDescription = `Liste des auteurs - Page ${currentPage} sur ${totalPages}. ${content.slice(0, 150)}...`;
-  const wordCount = countWords(metaDescription);
+  const metaDescription = description || `Liste des auteurs - Page ${currentPage} sur ${totalPages}. ${content.slice(0, 150)}...`;
+
+  // Generate canonical URL
+  const baseUrl = config.site.base_url;
+  const canonicalUrl = currentPage === 1 
+    ? `${baseUrl}/authors/` 
+    : `${baseUrl}/authors/page/${currentPage}/`;
 
   return (
     <>
       <SeoMeta 
-        title={title} 
-        description={`${metaDescription} (${wordCount} mots)`}
+        title={seoTitle}
+        description={metaDescription}
+        canonical={canonicalUrl}
       />
       <section className="section">
         <div className="container text-center">
