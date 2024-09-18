@@ -37,6 +37,8 @@ Au fil des saisons, j'ai développé un véritable "sens de la rhubarbe". J'ai a
 
 Pour savoir quand récolter, il faut d'abord comprendre comment vit la rhubarbe. Laissez-moi vous expliquer son cycle annuel, tel que je l'ai observé dans mon jardin.
 
+[Apprenez à planter la rhubarbe dans votre jardin pour une récolte abondante.](quand-comment-planter-rhubarbe)
+
 ### Le réveil printanier
 
 Chaque année, c'est le même émerveillement quand je vois les premières pousses émerger du sol. Voici ce que j'ai remarqué :
