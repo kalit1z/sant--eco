@@ -10,7 +10,6 @@ authors: ["Jade Orlanal"]
 tags: ["rhubarbe", "plantation"]
 draft: false
 ---
-# Quand et comment planter la rhubarbe : Le guide ultime pour un potager gourmand
 
 La rhubarbe, avec ses tiges charnues et son goût acidulé caractéristique, est un trésor souvent sous-estimé dans le monde du jardinage. Qu'on l'aime en tarte, en compote ou même en confiture, cette plante vivace robuste a le pouvoir de transformer un simple dessert en une expérience gustative mémorable. Mais pour profiter pleinement de ses délices, encore faut-il savoir quand et comment la planter. Dans ce guide complet, nous allons explorer tous les aspects de la plantation de la rhubarbe, des bases essentielles aux techniques avancées, pour vous permettre de cultiver avec succès cette merveille du potager.
 
