@@ -1,6 +1,7 @@
 # *
 User-agent: *
 Allow: /
+Disallow: /home
 
 # Host
 Host: https://www.jardins-passion.fr
