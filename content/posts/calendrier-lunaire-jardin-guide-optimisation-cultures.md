@@ -1,6 +1,6 @@
 ---
 title: "Calendrier lunaire jardin : Optimisez vos cultures avec les cycles de la lune"
-meta_title: "Calendrier Lunaire Jardin | Guide Complet pour un Potager Productif"
+meta_title: "Calendrier Lunaire | Guide pour un Potager Productif"
 description: "Découvrez comment utiliser le calendrier lunaire pour optimiser vos plantations, semis et récoltes. Conseils d'experts et astuces pratiques pour un jardinage en harmonie avec les cycles naturels."
 date: 2024-09-20
 image: "/images/posts/lunaire/lunenuit.webp"
