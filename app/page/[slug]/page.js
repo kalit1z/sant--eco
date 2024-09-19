@@ -26,6 +26,9 @@ const BlogPagination = async ({ params }) => {
   const { frontmatter, content } = homePage || {};
   const { title, image, imageAlt } = frontmatter || {};
 
+  // Canonical URL
+  const canonicalURL = "https://www.jardins-passion.fr/";
+
   // CTA de newsletter
   const NewsletterCTA = () => (
     <div style={{textAlign: "center", backgroundColor: "#f0f8f0", padding: "20px", margin: "30px 0", borderRadius: "8px"}}>
@@ -54,7 +57,10 @@ const BlogPagination = async ({ params }) => {
 
   return (
     <>
-      <SeoMeta title={currentPage === 1 ? title : `Page ${currentPage}`} />
+      <SeoMeta 
+        title={currentPage === 1 ? title : `Page ${currentPage}`} 
+        canonical={canonicalURL}
+      />
       <section className="section">
         <div className="container">
           {currentPage === 1 && (
@@ -78,7 +84,6 @@ const BlogPagination = async ({ params }) => {
             </div>
           )}
           <NewsletterCTA />
-
           <Posts className="mb-16" posts={currentPosts} authors={authors} />
           <Pagination totalPages={totalPages} currentPage={currentPage} />
           <NewsletterCTA />
