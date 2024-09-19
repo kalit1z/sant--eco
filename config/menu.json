@@ -9,6 +9,10 @@
       "url": "/a-propos"
     },
     {
+      "name": "En apprendre plus",
+      "url": "https://www.fastercook.fr/letter-potager"
+    },
+    {
       "name": "Catégories",
       "url": "",
       "hasChildren": true,
@@ -24,6 +28,10 @@
         {
           "name": "Récolter",
           "url": "/categories/recolter-votre-potager"
+        },
+        {
+          "name": "Astuces du potager",
+          "url": "/categories/astuces-du-potager"
         }
       ]
     }
