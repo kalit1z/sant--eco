@@ -11,7 +11,7 @@ tags: ["calendrier lunaire",]
 draft: false
 ---
 
-Salut les passionnés de jardinage ! C'est Pierre. Aujourd'hui, on va parler d'un truc qui m'a fait passer pour un illuminé auprès de ma famille : le jardinage avec la lune. Oui, vous avez bien entendu, on va faire copain-copain avec notre satellite préféré pour avoir des légumes de compét' !
+Aujourd'hui, on va parler d'un truc qui m'a fait passer pour un illuminé auprès de ma famille : le jardinage avec la lune. Oui, vous avez bien entendu, on va faire copain-copain avec notre satellite préféré pour avoir des légumes de compét' !
 
 ## Comprendre le calendrier lunaire jardin
 

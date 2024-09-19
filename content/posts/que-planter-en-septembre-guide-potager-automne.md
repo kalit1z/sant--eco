@@ -10,7 +10,7 @@ authors: ["Pierre Penchot"]
 tags: ["plantation", "septembre"]
 draft: false
 ---
-Salut les jardiniers en herbe ! C'est Pierre, votre voisin passionné de jardinage. Vous savez, celui qui passe plus de temps avec ses tomates qu'avec sa famille. Aujourd'hui, on va parler de septembre, ce mois où l'été tire sa révérence et où l'automne pointe le bout de son nez. C'est le moment ou jamais de préparer votre festin d'hiver !
+Aujourd'hui, on va parler de septembre, ce mois où l'été tire sa révérence et où l'automne pointe le bout de son nez. C'est le moment ou jamais de préparer votre festin d'hiver !
 
 ## Que planter en septembre potager : Mes incontournables
 

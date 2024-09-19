@@ -11,7 +11,7 @@ tags: ["punaises", "protection des plantes"]
 draft: false
 ---
 
-Salut les jardiniers en herbe ! C'est Pierre, votre voisin passionné de jardinage et ennemi juré des punaises. Aujourd'hui, je vais vous raconter ma guerre sans merci contre ces petites bestioles qui ont décidé de faire de mon potager leur buffet à volonté. Attachez vos ceintures, on part en mission commando anti-punaises !
+Aujourd'hui, je vais vous raconter ma guerre sans merci contre ces petites bestioles qui ont décidé de faire de mon potager leur buffet à volonté. Attachez vos ceintures, on part en mission commando anti-punaises !
 
 ## Punaise de jardin : Connaître son ennemi (ou comment j'ai appris à les détester)
 
