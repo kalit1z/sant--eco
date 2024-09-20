@@ -82,6 +82,7 @@ Attention, je vous livre mon secret le mieux gardé. Promettez-moi de ne pas le 
 - 5 gouttes d'huile essentielle de lavande (pour que ça sente bon quand même)
 - 1 cuillère à soupe de savon noir liquide (pour que ça colle bien aux feuilles)
 
+
 Mélangez le tout dans un pulvérisateur et aspergez vos plantes tous les 3-4 jours. C'est comme un parfum répulsif pour punaises !
 
 
@@ -104,6 +105,8 @@ Ah, mes pauvres tomates ! Elles en ont vu de toutes les couleurs avec ces punais
 2. **La chasse manuelle** : Quand j'en vois une, c'est l'heure de la pichenette ! (Avec des gants, j'ai appris de mes erreurs)
 3. **Mes filets magiques** : J'ai couvert mes plants avec des filets à mailles fines. Ça donne un petit côté "haute couture" à mon potager.
 4. **Le jeu des chaises musicales version tomates** : Chaque année, je change mes tomates de place. Ça désoriente les punaises (et moi aussi, parfois).
+
+Les punaises ne sont pas les seuls problèmes que peuvent rencontrer vos tomates. Pour tout savoir sur la culture et la récolte de ce légume-fruit, lisez notre guide complet sur [quand et comment récolter vos tomates](recolte-tomates-quand-comment-cueillir).
 
 ## Punaise des tomates : Focus sur la punaise diabolique (mon nemesis personnel)
 
@@ -155,6 +158,8 @@ Parlons maintenant de la punaise diabolique (Halyomorpha halys). Croyez-moi, ell
 
 8. **Ces bestioles peuvent piquer les humains ?**
    Elles peuvent, mais c'est rare. C'est comme si vous les embêtiez vraiment beaucoup. Mais croyez-moi, l'odeur qu'elles dégagent est une punition suffisante.
+
+   La lutte contre les punaises n'est qu'un aspect de l'entretien d'un potager sain. Pour une approche globale de la gestion de votre jardin en automne, y compris la prévention des infestations, consultez notre [guide du potager d'automne](que-planter-en-octobre-guide-potager-automne).
 
 ## Conclusion : Maîtriser la gestion des punaises de jardin (ou "comment j'ai appris à vivre avec l'ennemi")
 

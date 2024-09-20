@@ -32,6 +32,7 @@ Apparemment, ces cycles influencent la circulation de la sève dans nos petites 
 
 Chaque phase a son petit effet sur nos plantes. C'est comme une boîte de chocolats, on ne sait jamais sur quoi on va tomber.
 
+
 ## Jardiner avec la lune : principes de base
 
 Voici ce que j'ai compris après avoir failli arracher tous mes cheveux (et mes plants) :
@@ -59,6 +60,8 @@ Après avoir joué au petit chimiste lunaire pendant un moment, voici ce que j'a
 5. **Optimisation des travaux** : Je sais enfin quoi faire de mes journées au jardin (à part bronzer)
 
 > "Le jardinage lunaire, c'est pas de la magie, c'est juste une façon de se la péter en soirée" - C'est moi qui l'ai dit, dans un moment de grande sagesse post-récolte
+
+Le jardinage lunaire peut être particulièrement bénéfique pour certaines cultures comme les tomates. Pour approfondir vos connaissances sur la culture de ce légume populaire, n'hésitez pas à lire notre guide complet sur [quand et comment récolter vos tomates](recolte-tomates-quand-comment-cueillir).
 
 ## Comment utiliser un calendrier lunaire jardin
 
@@ -148,6 +151,8 @@ Certains le disent. Moi, mes légumes ne durent jamais assez longtemps pour que 
 
 **Comment puis-je commencer à utiliser le calendrier lunaire dans mon jardin ?**
 Commencez petit. Plantez vos patates en lune descendante. Si ça marche, vous pourrez frimer au prochain barbecue.
+
+Le calendrier lunaire est particulièrement utile pour planifier vos activités de jardinage tout au long de l'année. Pour plus d'informations sur ce que vous pouvez faire dans votre potager en automne, que vous suiviez ou non le calendrier lunaire, consultez notre [guide du potager d'automne](que-planter-en-octobre-guide-potager-automne).
 
 ## Conclusion : Le calendrier lunaire, un allié pour un jardinage en harmonie avec la nature
 

@@ -10,7 +10,7 @@ authors: ["Pierre Penchot"]
 tags: ["plantation", "septembre"]
 draft: false
 ---
-Aujourd'hui, on va parler de septembre, ce mois où l'été tire sa révérence et où l'automne pointe le bout de son nez. C'est le moment ou jamais de préparer votre festin d'hiver !
+Aujourd'hui, on va parler de septembre, ce mois où l'été tire sa révérence et où l'automne pointe le bout de son nez. C'est le moment ou jamais de préparer votre festin d'hiver ! Les jardins regorgent encore de légumes savoureux, tandis que les arbres fruitiers offrent leurs derniers trésors. L'air se rafraîchit doucement, invitant à ressortir les plats mijotés et les soupes réconfortantes. 
 
 ## Que planter en septembre potager : Mes incontournables
 
@@ -55,6 +55,8 @@ Alors, qu'est-ce qu'on peut mettre en terre quand les feuilles commencent à tom
 | Choux de Bruxelles | 16-20 semaines | Plus résistant que moi au froid |
 | Ail | L'été d'après (patience, patience) | Immortel, je crois |
 
+N'oubliez pas que le timing est crucial pour une récolte réussie. Pour optimiser vos plantations, consultez notre [guide du calendrier lunaire pour le jardin](calendrier-lunaire-jardin-guide-optimisation-cultures). Il vous aidera à synchroniser vos semis avec les cycles lunaires pour de meilleurs résultats.
+
 ## Potager septembre : Préparer le terrain comme un pro (ou presque)
 
 Avant de se lancer tête baissée, faut préparer le terrain. C'est comme faire le ménage avant une soirée, sauf que c'est plus sale et plus amusant :
@@ -74,6 +76,8 @@ Planter en septembre, c'est pas comme au printemps. Faut ruser un peu :
 - **Espace vital** : Je laisse plus d'espace entre les plants. Faut qu'ils puissent respirer, ces petits.
 - **Arrosage modéré** : Ni trop, ni trop peu. C'est un peu comme servir l'apéro : faut trouver le bon dosage.
 - **Opération camouflage** : Je me tiens prêt à couvrir mes bébés plants si le froid arrive trop vite. J'ai des voiles d'hivernage partout, on dirait que je prépare un mariage dans mon jardin.
+
+Le paillage est une technique essentielle pour protéger vos cultures en automne. Pour en savoir plus sur les différentes méthodes et matériaux de paillage, consultez notre article détaillé sur les [techniques et avantages du paillage au potager](potager-paillage-techniques-avantages).
 
 ## Planter septembre : Focus sur mes chouchous, les légumes-feuilles
 
@@ -208,6 +212,8 @@ Pensées, myosotis, pâquerettes... C'est le moment de préparer le décor du gr
 C'est même une super idée ! C'est comme avoir une pouponnière pour bébés plants. Parfait pour les choux, les laitues et les épinards. Gardez-les au chaud et à la lumière, comme des stars en devenir.
 
 <img src="/images/posts/tomates/jeune-poussetomate.webp" alt="Rangée de plants de tomates tuteurés dans une serre, chargés de fruits à divers stades de croissance" width="500" height="300" style={{ display: 'block', margin: 'auto', borderRadius: '10px' }} />
+
+Bien qu'il soit trop tard pour planter des tomates, c'est le moment idéal pour réfléchir à votre prochaine récolte. Apprenez-en plus sur [quand et comment récolter vos tomates](recolte-tomates-quand-comment-cueillir) pour vous préparer à la saison prochaine.
 
 ## Conclusion : Septembre, c'est le nouveau mai !
 
