@@ -34,6 +34,8 @@ date_modified: "2024-09-21"
     <li>Gagner en autonomie et en compétences pratiques</li>
 </ul>
 
+<a href="/boutique">Découvrir La Boutique -></a>
+
 <h2>Notre approche de la vie éco-responsable</h2>
 
 <h3>Consommation raisonnée : moins mais mieux</h3>

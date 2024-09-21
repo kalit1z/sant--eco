@@ -12,7 +12,7 @@ const NewsletterCTA = () => (
     <p style={{fontSize: "16px", color: "#555555", marginBottom: "20px"}}>
       Recevez chaque semaine nos meilleurs conseils pour consommer de manière plus responsable et respectueuse de l'environnement.
     </p>
-    <a href="https://www.eco-vrac.fr/eco" target="_blank" rel="noopener noreferrer" style={{display: "inline-block", backgroundColor: "#8FC147", color: "white", padding: "10px 20px", textDecoration: "none", borderRadius: "5px", fontWeight: "bold"}}>
+    <a href="https://www.fastercook.fr/eco" target="_blank" rel="noopener noreferrer" style={{display: "inline-block", backgroundColor: "#8FC147", color: "white", padding: "10px 20px", textDecoration: "none", borderRadius: "5px", fontWeight: "bold"}}>
       Oui, je rejoins la communauté Éco Vrac !
     </a>
   </div>
