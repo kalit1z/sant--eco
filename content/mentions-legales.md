@@ -1,61 +1,64 @@
 ---
-title: "Mentions Légales - Jardins Passion"
-meta_title: "Mentions Légales | Jardins Passion - Votre Expert en Potagers"
-description: "Mentions légales et politique de confidentialité de Jardins Passion, votre guide expert pour la création et l'entretien de potagers."
+title: "Mentions Légales - Éco vrac"
+meta_title: "Mentions Légales | Éco vrac - Votre Guide pour une Vie Éco-Responsable"
+description: "Mentions légales et politique de confidentialité d'Éco vrac, votre ressource en ligne pour adopter un mode de vie durable et respectueux de l'environnement."
 draft: false
 ---
 
-## Introduction et Collecte de Données
+# Mentions Légales - Éco vrac
 
-Le site Web https://www.jardins-passion.fr/ offre à ses utilisateurs du contenu gratuit relatif aux potagers, avec ou sans nécessité d'inscription. Notre politique de collecte de données est minimaliste et éthique concernant les informations personnelles des utilisateurs.
+## 1. Informations légales
 
-### Données Collectées
+### 1.1 Éditeur du site
 
-- **Trafic/Adresses IP** : Pour analyser la fréquentation des articles et l'origine des visites.
-- **Adresses Email** : Collectées avec le consentement de l'utilisateur lors d'inscriptions aux formulaires.
-- **Informations d'Achat** : En cas d'achat, nous collectons email, adresse IP, nom, adresses de livraison et de facturation.
-- **Cookies d'Affiliation** : Possibilité d'installation de cookies pour notre programme d'affiliation.
+Le site web https://www.eco-vrac.fr/ est édité par :
 
-Vous pouvez vous désinscrire à tout moment de notre base de données email. Les adresses désabonnées sont supprimées définitivement chaque semestre.
+- Nom de l'entreprise : Éco vrac
+- Forme juridique : DeMatos BTP LLC
+- Adresse email : lejardinier.supp@gmail.com
 
-## Mentions Légales
+### 1.2 Hébergement
 
-- **Site édité par** : Jardins Passion
-- **Email** : contact@jardins-passion.fr
-- **Dénomination sociale** : DeMatos BTP LLC
-- **Hébergement** : Vercel
+Le site est hébergé par Vercel Inc., 340 S Lemon Ave #4133 Walnut, CA 91789, États-Unis.
 
-## Droit d'authors & Propriété Intellectuelle
+## 2. Collecte de Données et Confidentialité
 
-La présentation du site, les textes, et la majorité des éléments, y compris marques, logos et noms de domaine appartiennent à Jardins Passion et sont protégés par les lois sur la propriété intellectuelle.
+### 2.1 Données Collectées
 
-## Conditions d'Utilisation et Politique de Confidentialité
+Éco vrac s'engage à une collecte de données minimaliste et éthique :
 
-### Statistiques et Cookies
+- **Trafic/Adresses IP** : Pour l'analyse de la fréquentation du site.
+- **Adresses Email** : Collectées avec consentement lors des inscriptions.
+- **Informations d'Achat** : En cas d'achat (email, adresse IP, nom, adresses).
+- **Cookies d'Affiliation** : Possibilité d'installation pour notre programme d'affiliation.
 
-Nous utilisons des outils de statistiques pour mieux comprendre notre audience et optimiser notre contenu sur les potagers. Jardins Passion est présent sur divers réseaux sociaux pour la diffusion de son contenu.
+### 2.2 Utilisation des Données
 
-### Liens Hypertextes
+Les données collectées sont utilisées pour :
+- Améliorer l'expérience utilisateur sur notre site
+- Personnaliser le contenu relatif aux potagers
+- Gérer les relations avec nos clients et abonnés
+
+Vous pouvez vous désinscrire à tout moment. Les adresses désabonnées sont supprimées définitivement chaque semestre.
+
+## 3. Propriété Intellectuelle
+
+Tous les contenus présents sur Éco vrac (textes, images, vidéos sur les potagers) sont la propriété exclusive d'Éco vrac, sauf mention contraire. Toute reproduction non autorisée est strictement interdite.
+
+## 4. Conditions d'Utilisation
+
+### 4.1 Cookies et Statistiques
+
+Nous utilisons des outils d'analyse pour comprendre notre audience et optimiser notre contenu sur les potagers. Vous pouvez désactiver les cookies dans les paramètres de votre navigateur.
+
+### 4.2 Liens Hypertextes
 
 Notre site contient des liens vers d'autres ressources pertinentes sur le jardinage et les potagers. Ces liens visent à enrichir l'expérience de nos utilisateurs.
 
-### Propriété Intellectuelle
+## 5. Litiges
 
-Tout le contenu sur Jardins Passion, incluant textes, images, vidéos sur les potagers, est la propriété exclusive de Jardins Passion, sauf mention contraire. Toute reproduction non autorisée est strictement interdite.
-
-## Litiges
-
-Les présentes conditions sont régies par le droit français. Tout litige sera de la compétence exclusive des tribunaux dont dépend le siège social de Jardins Passion.
-
-## Politique des Cookies
-
-Nous utilisons des cookies pour améliorer l'expérience utilisateur, notamment pour :
-- Conserver les préférences de l'utilisateur
-- Analyser le trafic via Google Analytics
-- Gérer notre programme d'affiliation
-
-Vous pouvez désactiver les cookies dans les paramètres de votre navigateur.
+Les présentes conditions sont régies par le droit français. Tout litige sera de la compétence exclusive des tribunaux dont dépend le siège social d'Éco vrac.
 
 ---
 
-Toutes les informations sur Jardins Passion sont données à titre indicatif et sont susceptibles d'évoluer. Nous nous engageons à fournir des conseils de qualité sur la création et l'entretien de potagers, tout en respectant votre vie privée.
+Toutes les informations sur Éco vrac sont données à titre indicatif et sont susceptibles d'évoluer. Nous nous engageons à fournir des conseils de qualité sur la création et l'entretien de potagers écologiques, tout en respectant votre vie privée.

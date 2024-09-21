@@ -1,12 +1,12 @@
 {
   "site": {
-    "title": "Jardins Passion | Expert en Potagers",
-    "base_url": "/",
+    "title": "Éco vrac | Astuces écologique",
+    "base_url": "https://www.eco-vrac.fr/",
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",
     "logo_width": "234",
     "logo_height": "50",
-    "logo_text": "Jardins Passion"
+    "logo_text": "Éco vrac"
   },
 
   "settings": {
@@ -18,12 +18,12 @@
   "params": {
     "tag_manager_id": "",
     "contact_form_action": "https://formspree.io/f/xkndjywo",
-    "copyright": "© 2024 Jardins Passion. Tous droits réservés."
+    "copyright": "© 2024 Éco vrac. Tous droits réservés."
   },
 
   "metadata": {
-    "meta_author": "Équipe Jardins Passion",
+    "meta_author": "Équipe Éco vrac",
     "meta_image": "/images/favicon.png",
-    "meta_description": "Jardins Passion : votre guide expert pour créer et entretenir un potager productif. Conseils, astuces et techniques pour cultiver vos propres fruits et légumes."
+    "meta_description": "Découvrez nos rubriques dédiées à un mode de vie éco-responsable. De la consommation zéro déchet aux astuces pour une maison verte, en passant par l'alimentation durable, trouvez l'inspiration pour chaque aspect d'une vie plus respectueuse de l'environnement."
   }
 }

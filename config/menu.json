@@ -10,7 +10,7 @@
     },
     {
       "name": "En apprendre plus",
-      "url": "https://www.fastercook.fr/letter-potager"
+      "url": "https://www.fastercook.fr/eco"
     },
     {
       "name": "Catégories",
@@ -18,20 +18,16 @@
       "hasChildren": true,
       "children": [
         {
-          "name": "Planter",
-          "url": "/categories/planter-votre-potager"
+          "name": "Bien-être naturel",
+          "url": "/categories/bien-etre-naturel"
         },
         {
-          "name": "Entretenir",
-          "url": "/categories/entretenir-votre-potager"
+          "name": "Alimentation durable",
+          "url": "/categories/alimentation-durable"
         },
         {
-          "name": "Récolter",
-          "url": "/categories/recolter-votre-potager"
-        },
-        {
-          "name": "Astuces...",
-          "url": "/categories/astuces-du-potager"
+          "name": "Jardin et biodiversité",
+          "url": "/categories/jardin-biodiversite"
         }
       ]
     }

@@ -1,4 +1,4 @@
 module.exports = {
-    siteUrl: 'https://www.jardins-passion.fr',
+    siteUrl: 'https://www.eco-vrac.fr',
     generateRobotsTxt: true,
   }

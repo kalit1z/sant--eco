@@ -12,8 +12,9 @@ import { marked } from 'marked';
 const { blog_folder } = config.settings;
 
 const categoryMapping = {
-  "recolter": "récolter",
-  "preparer": "préparer",
+  "bien-etre": "bien-être",
+  "Bien-etre": "Bien-être",
+  "biodiversite": "biodiversité",
 };
 
 const formatCategoryName = (category) => {
@@ -27,13 +28,13 @@ const formatCategoryName = (category) => {
 const NewsletterCTA = () => (
   <div style={{textAlign: "center", backgroundColor: "#f0f8f0", padding: "20px", margin: "30px 0", borderRadius: "8px"}}>
     <p style={{fontSize: "24px", color: "#333333", marginBottom: "15px"}}>
-      <strong>Cultivez votre passion du jardinage !</strong>
+      <strong>Adoptez un mode de vie durable avec Éco Vrac !</strong>
     </p>
     <p style={{fontSize: "16px", color: "#555555", marginBottom: "20px"}}>
-      Recevez nos meilleurs conseils de jardinage directement dans votre boîte mail.
+      Recevez chaque semaine nos meilleurs conseils pour consommer de manière plus responsable et respectueuse de l'environnement.
     </p>
-    <a href="https://www.fastercook.fr/letter-potager" target="_blank" rel="noopener noreferrer" style={{display: "inline-block", backgroundColor: "#099141", color: "white", padding: "10px 20px", textDecoration: "none", borderRadius: "5px", fontWeight: "bold"}}>
-      S'inscrire à la newsletter
+    <a href="https://www.eco-vrac.fr/eco" target="_blank" rel="noopener noreferrer" style={{display: "inline-block", backgroundColor: "#8FC147", color: "white", padding: "10px 20px", textDecoration: "none", borderRadius: "5px", fontWeight: "bold"}}>
+      Oui, je rejoins la communauté Éco Vrac !
     </a>
   </div>
 );

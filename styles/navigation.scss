@@ -29,7 +29,7 @@ input#nav-toggle:checked ~ #nav-menu {
 }
 
 .nav-link {
-  @apply p-3 text-lg font-semibold text-dark transition hover:text-primary md:p-4;
+  @apply p-3 text-lg font-semibold text-dark transition duration-300 hover:text-primary md:p-4;
 }
 
 .nav-dropdown {
@@ -37,25 +37,25 @@ input#nav-toggle:checked ~ #nav-menu {
 }
 
 .nav-dropdown-list {
-  @apply z-10 rounded-lg bg-white p-4 shadow transition;
+  @apply z-10 rounded-lg bg-white p-4 shadow-md transition duration-300;
 }
 
 .nav-dropdown-item {
-  @apply mb-1;
+  @apply mb-2;
 }
 
 .nav-dropdown-link {
-  @apply min-w-[150px] py-1 text-lg font-semibold text-dark transition hover:text-primary;
+  @apply min-w-[150px] py-1 text-lg font-semibold text-dark transition duration-300 hover:text-primary;
 }
 
 // search style
 .search-modal {
-  @apply invisible absolute top-0 left-0 right-0 z-10 h-10 bg-white opacity-0 transition md:h-full;
+  @apply invisible absolute top-0 left-0 right-0 z-10 h-10 bg-white opacity-0 transition duration-300 md:h-full;
   .form-input {
-    @apply h-full w-full border-0 text-lg;
+    @apply h-full w-full border-0 text-lg focus:outline-none focus:ring-2 focus:ring-primary;
   }
   .search-close {
-    @apply absolute top-1/2 right-2 -translate-y-1/2 p-3 text-h4;
+    @apply absolute top-1/2 right-2 -translate-y-1/2 p-3 text-h4 hover:text-primary transition duration-300;
   }
   &.open {
     @apply visible opacity-100;

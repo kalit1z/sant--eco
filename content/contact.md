@@ -1,7 +1,7 @@
 ---
-title: "Contactez Jardins Passion - Votre Expert en Potagers"
+title: "Échangez avec les Experts en Mode de Vie Durable d'Éco vrac"
 layout: "contact"
-meta_title: "Contact | Jardins Passion - Conseils d'Experts en Potagers"
-description: "Besoin d'aide pour votre potager ? Contactez les experts de Jardins Passion. Conseils personnalisés, astuces de jardinage et solutions pour cultiver vos légumes."
+meta_title: "Contactez-nous | Éco vrac - Votre Partenaire pour une Vie Éco-responsable"
+description: "Vous avez des questions sur l'adoption d'un mode de vie plus durable ? Les experts d'Éco vrac sont là pour vous guider. Obtenez des conseils personnalisés et des solutions écologiques pour un quotidien plus vert."
 draft: false
 ---
