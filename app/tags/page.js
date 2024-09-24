@@ -33,14 +33,14 @@ const Tags = async () => {
   return (
     <>
       <SeoMeta 
-        title={"Tags - Explorez nos sujets de jardinage"}
-        description="Découvrez tous les sujets abordés dans notre blog de jardinage. Des conseils pratiques aux techniques avancées, trouvez l'inspiration pour votre jardin."
+        title={"Tags - Explorez nos sujets sur le bien-être naturel"}
+        description="Découvrez tous les sujets abordés dans notre blog dédié au bien-être naturel et à l'éco-responsabilité. Des astuces quotidiennes aux pratiques plus avancées, trouvez l'inspiration pour une vie équilibrée et respectueuse de l'environnement."
         noindex={true}
         nofollow={true}
       />
       <section className="section">
         <div className="container text-center">
-          {markdownify("Explorez nos sujets de jardinage", "h1", "h2 mb-16")}
+          {markdownify("Explorez nos sujets de bien-être naturel", "h1", "h2 mb-16")}
           <ul className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 mb-16">
             {tags.map((tag, i) => (
               <li key={`tag-${i}`} className="mb-4">

@@ -7,9 +7,9 @@ const SearchPage = async () => {
   const authors = await getSinglePage("content/authors");
 
   // Définition statique des métadonnées SEO
-  const pageTitle = "Recherche | Éco vrac";
-  const metaTitle = "Trouvez l'information jardinage sur Éco vrac";
-  const metaDescription = "Accédez à nos articles sur le jardinage, les techniques de culture et l'entretien des plantes. Éco vrac : votre source d'inspiration pour un jardin réussi.";
+const pageTitle = "Recherche | Éco vrac";
+const metaTitle = "Découvrez des astuces de bien-être naturel sur Éco vrac";
+const metaDescription = "Explorez nos articles sur le bien-être, les modes de vie durables et les solutions écologiques pour une vie plus équilibrée. Éco vrac : votre source d'inspiration pour un quotidien naturel et épanoui.";
   return (
     <>
       <SeoMeta 
