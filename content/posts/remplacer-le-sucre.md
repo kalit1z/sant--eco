@@ -103,7 +103,7 @@ N'oubliez pas que le sirop d'agave a un goût légèrement différent du sucre. 
 
 ## Remplacer le sucre par du miel dans le café
 
-Enfin, parlons d'une substitution simple mais efficace : remplacer le sucre par du miel dans votre café. C'est une habitude que j'ai personnellement adoptée il y a quelques années et que je ne regrette pas !
+Enfin, parlons d'une substitution simple mais efficace : changer le sucre par du miel dans votre café. C'est une habitude que j'ai personnellement adoptée il y a quelques années et que je ne regrette pas !
 
 ### Pourquoi choisir le miel ?
 
