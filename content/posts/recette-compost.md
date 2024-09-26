@@ -5,7 +5,7 @@ description: "Découvrez les secrets d'un compost réussi. Des ingrédients aux 
 date: 2024-09-27
 image: "/images/posts/compost/compost.webp"
 imageAlt: "Tas de compost riche et fumant, prêt à nourrir le jardin"
-categories: ["Astuces au jardin"]
+categories: ["jardin biodiversite"]
 authors: ["Gerard Delao"]
 tags: ["compost", "jardinage biologique"]
 draft: false
