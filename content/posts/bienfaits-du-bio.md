@@ -5,13 +5,11 @@ description: "Découvrez comment l'alimentation bio peut transformer votre sant�
 date: 2024-10-13
 image: "/images/posts/jardin-bio/jardin-bio.webp"
 imageAlt: "Variété de fruits et légumes biologiques frais dans un panier en osier"
-categories: ["Bien-être naturel"]
+categories: ["Bien-etre naturel"]
 authors: ["Gerard Delao"]
 tags: ["bio", "santé naturelle"]
 draft: false
 ---
-
-# Les Bienfaits du Bio : La Clé d'un Bien-Être Naturel et Durable
 
 Dans un monde où la quête du bien-être et de la santé devient de plus en plus centrale, le bio s'impose comme une solution à la fois naturelle et durable. Mais au-delà des effets de mode, que savons-nous réellement des bienfaits de l'agriculture et de l'alimentation biologiques ? Plongeons ensemble dans cette exploration des multiples avantages que le bio peut apporter à notre santé, à notre environnement, et à notre société dans son ensemble.
 
