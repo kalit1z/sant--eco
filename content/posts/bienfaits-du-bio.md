@@ -2,7 +2,7 @@
 title: "Les Bienfaits du Bio : La Clé d'un Bien-Être Naturel et Durable"
 meta_title: "Bienfaits du Bio | Guide Complet pour un Mode de Vie Sain et Naturel"
 description: "Découvrez comment l'alimentation bio peut transformer votre santé et votre bien-être. Des avantages nutritionnels aux bénéfices environnementaux, explorez les multiples facettes du mode de vie biologique."
-date: 2024-10-13
+date: 2024-10-01
 image: "/images/posts/jardin-bio/jardin-bio.webp"
 imageAlt: "Variété de fruits et légumes biologiques frais dans un panier en osier"
 categories: ["Bien-etre naturel"]
