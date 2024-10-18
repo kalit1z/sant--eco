@@ -49,6 +49,7 @@ export default function RootLayout({ children }) {
           media="(prefers-color-scheme: dark)"
           content="#000"
         />
+        
       </head>
       <body suppressHydrationWarning={true}>
         <TwSizeIndicator />
