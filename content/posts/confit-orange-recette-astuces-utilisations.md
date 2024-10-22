@@ -7,7 +7,7 @@ image: "/images/posts/orange/orangezoom.webp"
 imageAlt: "Confit d'orange maison avec oranges fraîches"
 categories: ["alimentation durable"]
 authors: ["Aurelie Mateus"]
-tags: ["confit", "orange"]
+tags: []
 draft: false
 ---
 

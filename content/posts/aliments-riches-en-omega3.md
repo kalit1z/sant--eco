@@ -7,7 +7,7 @@ image: "/images/posts/alimentation/saumongriller.webp"
 imageAlt: "Filet de saumon grillé, riche en oméga 3, servi avec des légumes verts"
 categories: ["bien-etre naturel"]
 authors: ["Aurelie Mateus"]
-tags: ["nutrition", "santé"]
+tags: []
 draft: false
 ---
 

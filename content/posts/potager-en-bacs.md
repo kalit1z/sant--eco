@@ -7,7 +7,7 @@ image: "/images/posts/potager/potagerenbacs.webp"
 imageAlt: "Potager urbain en bacs faits de matériaux recyclés sur un balcon ensoleillé"
 categories: ["jardin biodiversite"]
 authors: ["Gerard Delao"]
-tags: ["jardinage urbain", "recyclage"]
+tags: []
 draft: false
 ---
 

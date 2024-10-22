@@ -6,7 +6,7 @@ date: 2024-09-21
 image: "/images/posts/sanspesticide/sanspesticide15.webp"
 categories: ["alimentation durable"]
 authors: ["Aurelie Mateus"]
-tags: ["nutrition", "sante"]
+tags: []
 draft: false
 ---
 

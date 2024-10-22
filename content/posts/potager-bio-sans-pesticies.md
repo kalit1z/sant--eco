@@ -7,7 +7,7 @@ image: "/images/posts/sanspesticide/sanspesticide.webp"
 imageAlt: "Un potager bio luxuriant avec diverses cultures et insectes bénéfiques"
 categories: ["jardin biodiversite"]
 authors: ["Martin Colomb"]
-tags: ["jardinage bio", "permaculture"]
+tags: []
 draft: false
 ---
 

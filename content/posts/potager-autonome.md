@@ -7,7 +7,7 @@ image: "/images/posts/potagerautonome/potagerautonome.webp"
 imageAlt: "Vue d'ensemble d'un potager autonome avec systèmes d'irrigation, composteur et cultures variées"
 categories: ["jardin biodiversite"]
 authors: ["Gerard Delao"]
-tags: ["permaculture", "autosuffisance"]
+tags: []
 draft: false
 ---
 

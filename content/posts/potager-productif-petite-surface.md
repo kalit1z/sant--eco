@@ -7,7 +7,7 @@ image: "/images/posts/potager/potagerpetit.webp"
 imageAlt: "Petit potager urbain productif avec diverses cultures étagées"
 categories: ["jardin biodiversite"]
 authors: ["Gerard Delao"]
-tags: ["jardinage urbain", "permaculture"]
+tags: []
 draft: false
 ---
 

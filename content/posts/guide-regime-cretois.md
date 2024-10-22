@@ -7,7 +7,7 @@ image: "/images/posts/alimentation/regime-cretois.webp"
 imageAlt: "Table méditerranéenne avec huile d'olive, légumes frais, poisson et vin rouge"
 categories: ["alimentation durable"]
 authors: ["Aurelie Mateus"]
-tags: ["nutrition"]
+tags: []
 draft: false
 ---
 

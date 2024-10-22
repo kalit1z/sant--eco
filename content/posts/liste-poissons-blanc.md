@@ -6,7 +6,7 @@ date: 2024-10-07
 image: "/images/posts/poisson/poisscaiileplat.webp"
 categories: ["bien-etre naturel"]
 authors: ["Aurelie Mateus"]
-tags: ["nutrition", "digestion"]
+tags: []
 draft: false
 --- 
 Bienvenue dans notre guide complet sur les **poissons blancs**, ces délices de la mer qui méritent une place de choix dans votre alimentation. Que vous soyez un amateur de cuisine ou simplement à la recherche d'options saines pour vos repas, cet article vous dévoilera les secrets des meilleurs poissons blancs à intégrer régulièrement dans votre menu. Préparez-vous à plonger dans un océan de saveurs et de bienfaits nutritionnels !

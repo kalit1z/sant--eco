@@ -7,7 +7,7 @@ image: "/images/posts/legumes-automne/potager-automne.webp"
 imageAlt: "Un potager automnal luxuriant avec diverses cultures"
 categories: ["jardin biodiversite"]
 authors: ["Martin Colomb"]
-tags: ["jardinage"]
+tags: []
 draft: false
 ---
 

@@ -7,7 +7,7 @@ image: "/images/posts/noel/tablenoel.webp"
 imageAlt: "Table de Noël joliment dressée avec des plats festifs"
 categories: ["alimentation durable"]
 authors: ["Aurelie Mateus"]
-tags: ["legumes de saison", "cuisine hivernale"]
+tags: []
 draft: false
 ---
 

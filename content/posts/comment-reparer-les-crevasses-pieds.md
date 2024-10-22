@@ -6,7 +6,7 @@ date: 2024-09-21
 image: "/images/posts/pied/piedeau.webp"
 categories: ["bien-etre naturel"]
 authors: ["Aurelie Mateus"]
-tags: ["soins des pieds", "dermatologie"]
+tags: []
 draft: false
 ---
 

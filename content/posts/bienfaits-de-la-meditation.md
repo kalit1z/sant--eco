@@ -7,7 +7,7 @@ image: "/images/posts/meditation/meditation.webp"
 imageAlt: "Personne méditant dans un environnement paisible et naturel"
 categories: ["Bien-etre naturel"]
 authors: ["Martin Colomb"]
-tags: ["meditation", "pleine conscience"]
+tags: []
 draft: false
 ---
 

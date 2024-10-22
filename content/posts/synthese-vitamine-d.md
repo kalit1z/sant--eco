@@ -6,7 +6,7 @@ date: 2024-09-21
 image: "/images/posts/sante-natu/vitamined.webp"
 categories: ["bien-etre naturel"]
 authors: ["Aurelie Mateus"]
-tags: ["vitamine D", "sante naturelle"]
+tags: []
 draft: false
 ---
 

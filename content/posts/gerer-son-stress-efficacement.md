@@ -7,7 +7,7 @@ image: "/images/posts/stress/gestion-stress.webp"
 imageAlt: "Personne pratiquant la méditation dans un environnement calme et naturel"
 categories: ["bien-etre naturel"]
 authors: ["Aurelie Mateus"]
-tags: ["gestion du stress", "bien-etre"]
+tags: []
 draft: false
 ---
 

@@ -7,7 +7,7 @@ image: "/images/posts/aquaponie/aquaponie.webp"
 imageAlt: "Système d'aquaponie domestique en fonctionnement, montrant des plantes en croissance au-dessus d'un aquarium avec des poissons"
 categories: ["jardin biodiversite"]
 authors: ["Gerard Delao"]
-tags: ["aquaponie", "agriculture urbaine"]
+tags: []
 draft: false
 ---
 

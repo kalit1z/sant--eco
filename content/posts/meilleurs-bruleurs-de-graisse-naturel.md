@@ -6,7 +6,7 @@ date: 2024-09-22
 image: "/images/posts/graisse/graisse.webp"
 categories: ["bien-etre naturel"]
 authors: ["Aurelie Mateus"]
-tags: ["perte de poids", "nutrition"]
+tags: []
 draft: false
 ---
 

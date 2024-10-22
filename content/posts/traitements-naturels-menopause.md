@@ -7,7 +7,7 @@ image: "/images/posts/detox/meno.webp"
 imageAlt: "Femme sereine pratiquant le yoga, entourée de plantes médicinales et de produits naturels pour soulager les symptômes de la ménopause"
 categories: ["bien-etre naturel"]
 authors: ["Aurelie Mateus"]
-tags: ["menopause", "sante"]
+tags: []
 draft: false
 ---
 

@@ -7,7 +7,7 @@ image: "/images/posts/jardin-foret/jardinenfant.webp"
 imageAlt: "Vue d'ensemble d'un jardin-forêt comestible luxuriant avec différents étages de végétation"
 categories: ["jardin biodiversite"]
 authors: ["Gerard Delao"]
-tags: ["permaculture", "agroforesterie"]
+tags: []
 draft: false
 ---
 

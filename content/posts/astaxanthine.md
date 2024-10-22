@@ -7,7 +7,7 @@ image: "/images/posts/astaxanthine/astaxanthine.webp"
 imageAlt: "Capsules d'astaxanthine à côté de micro-algues Haematococcus pluvialis"
 categories: ["bien-etre naturel"]
 authors: ["Aurelie Mateus"]
-tags: ["antioxydants", "compléments alimentaires"]
+tags: []
 draft: false
 ---
 

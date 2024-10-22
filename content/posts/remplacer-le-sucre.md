@@ -7,7 +7,7 @@ image: "/images/posts/sucre/sucrecanne.webp"
 imageAlt: "Diverses alternatives naturelles au sucre disposées sur une table en bois"
 categories: ["alimentation durable"]
 authors: ["Martin Colomb"]
-tags: ["sucre", "alternatives naturelles"]
+tags: []
 draft: false
 ---
 

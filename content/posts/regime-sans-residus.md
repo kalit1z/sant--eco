@@ -6,7 +6,7 @@ date: 2024-09-21
 image: "/images/posts/sante-natu/kiwi.webp"
 categories: ["bien-etre naturel"]
 authors: ["Aurelie Mateus"]
-tags: ["nutrition", "digestion"]
+tags: []
 draft: false
 ---
 

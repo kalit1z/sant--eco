@@ -7,7 +7,7 @@ image: "/images/posts/jardin-bio/jardin-bio.webp"
 imageAlt: "Variété de fruits et légumes biologiques frais dans un panier en osier"
 categories: ["Bien-etre naturel"]
 authors: ["Gerard Delao"]
-tags: ["bio", "santé naturelle"]
+tags: []
 draft: false
 ---
 

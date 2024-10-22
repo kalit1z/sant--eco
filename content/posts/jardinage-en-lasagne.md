@@ -7,7 +7,7 @@ image: "/images/posts/jardinlasagne/jardinlasagne.webp"
 imageAlt: "Un potager en lasagnes luxuriant avec diverses cultures"
 categories: ["jardin biodiversite"]
 authors: ["Martin Colomb"]
-tags: ["permaculture", "jardinage-écologique"]
+tags: []
 draft: false
 ---
 

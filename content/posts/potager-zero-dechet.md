@@ -7,7 +7,7 @@ image: "/images/posts/potager/sansdechet.webp"
 imageAlt: "Un potager luxuriant avec des bacs de compostage et des systèmes de récupération d'eau de pluie"
 categories: ["jardin biodiversite"]
 authors: ["Martin Colomb"]
-tags: ["jardinage écologique", "zero dechet"]
+tags: []
 draft: false
 ---
 

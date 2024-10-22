@@ -7,7 +7,7 @@ image: "/images/posts/potagerhiver/potagerhiver.webp"
 imageAlt: "Assortiment coloré de légumes d'hiver frais sur une table en bois rustique"
 categories: ["alimentation durable"]
 authors: ["Aurelie Mateus"]
-tags: ["legumes de saison", "cuisine hivernale"]
+tags: []
 draft: false
 ---
 

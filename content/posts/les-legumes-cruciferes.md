@@ -5,7 +5,7 @@ description: "Découvrez les bienfaits exceptionnels des légumes crucifères po
 date: 2024-10-11
 image: "/images/posts/lugumes/choux-brocolis.webp"
 imageAlt: "Assortiment de légumes crucifères frais incluant brocoli, chou-fleur et chou de Bruxelles"
-categories: ["alimentation durable"]
+categories: []
 authors: ["Aurelie Mateus"]
 tags: ["nutrition"]
 draft: false

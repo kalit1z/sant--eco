@@ -7,7 +7,7 @@ image: "/images/posts/permahurbain/permahurbain.webp"
 imageAlt: "Jardin permacole sur un balcon en ville avec diverses plantes et systèmes de culture verticale"
 categories: ["jardin biodiversite"]
 authors: ["Martin Colomb"]
-tags: ["permaculture", "jardinage urbain"]
+tags: []
 draft: false
 ---
 

@@ -7,7 +7,7 @@ image: "/images/posts/potager/potagerbioraisin.webp"
 imageAlt: "Potager biodynamique luxuriant avec diverses cultures et préparations"
 categories: ["alimentation durable"]
 authors: ["Martin Colomb"]
-tags: ["biodynamie", "jardinage naturel"]
+tags: []
 draft: false
 ---
 

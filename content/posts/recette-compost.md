@@ -7,7 +7,7 @@ image: "/images/posts/compost/compost.webp"
 imageAlt: "Tas de compost riche et fumant, prêt à nourrir le jardin"
 categories: ["jardin biodiversite"]
 authors: ["Gerard Delao"]
-tags: ["compost", "jardinage biologique"]
+tags: []
 draft: false
 ---
 

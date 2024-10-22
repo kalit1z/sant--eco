@@ -7,7 +7,7 @@ image: "/images/posts/detox/jusdetox.webp"
 imageAlt: "Assortiment de légumes verts et fruits détox sur une table en bois"
 categories: ["alimentation durable"]
 authors: ["Aurelie Mateus"]
-tags: ["detoxification", "sante"]
+tags: []
 draft: false
 ---
 

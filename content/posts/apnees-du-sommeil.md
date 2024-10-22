@@ -7,7 +7,7 @@ image: "/images/posts/sante-natu/sommeil.webp"
 imageAlt: "Personne endormie avec un appareil CPAP pour traiter les apnées du sommeil"
 categories: ["bien-etre naturel"]
 authors: ["Gerard Delao"]
-tags: ["troubles du sommeil", "santé respiratoire"]
+tags: []
 draft: false
 ---
 

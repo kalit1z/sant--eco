@@ -7,7 +7,7 @@ image: "/images/posts/ongles/ongles.webp"
 imageAlt: "Gros plan sur des ongles noirs, illustrant le sujet de l'article"
 categories: ["bien-etre naturel"]
 authors: ["Aurelie Mateus"]
-tags: ["sante des ongles", "dermatologie"]
+tags: []
 draft: false
 ---
 

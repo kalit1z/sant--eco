@@ -7,7 +7,7 @@ image: "/images/posts/sport/altere.webp"
 imageAlt: "Athlète buvant de l'eau pendant une séance d'entraînement"
 categories: ["bien-etre naturel"]
 authors: ["Aurelie Mateus"]
-tags: ["hydratation", "sport"]
+tags: []
 draft: false
 ---
 
