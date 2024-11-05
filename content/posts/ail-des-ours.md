@@ -8,7 +8,7 @@ imageAlt: "Fleurs d'ail des ours : bienfaits et recettes"
 categories: ["Jardin biodiversite"]
 authors: ["Gerard Delao"]
 tags: []
-draft: true
+draft: false
 ---
 
 Les fleurs d'ail des ours, délicates et parfumées, ne sont pas uniquement un régal pour les yeux ; elles sont également un véritable trésor de bienfaits pour la santé et la cuisine. Originaire des sous-bois d'Europe, cette plante médicinale est souvent négligée malgré ses multiples atouts. Dans cet article, nous explorerons leurs bienfaits, des recettes savoureuses, ainsi que des conseils pratiques pour cultiver cette merveilleuse plante dans votre jardin. Préparez-vous à entrer dans l'univers fascinant de l'ail des ours et à redécouvrir cette plante aux mille vertus !

@@ -8,7 +8,7 @@ imageAlt: "Ail en gélule : Sommes-nous vraiment convaincus ?"
 categories: ["Bien-etre naturel"]
 authors: ["Gerard Delao"]
 tags: []
-draft: true
+draft: false
 ---
 
 L'ail, ce petit bulbe aux multiples vertus, n'est pas seulement un ingrédient incontournable de la cuisine. En gélule, il offre une alternative pratique pour bénéficier de ses propriétés sans avoir à le consommer cru ou cuit. Ses effets sur la santé, allant de la prévention des maladies cardiovasculaires à l'amélioration du système immunitaire, éveillent l'intérêt de nombreux consommateurs. Mais que sait-on vraiment sur l'ail en gélule ? Plongeons ensemble dans cette exploration.
