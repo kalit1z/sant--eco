@@ -2,7 +2,7 @@
 title: "Découvrez les Bienfaits d'un Régime Alimentaire aux Fruits"
 meta_title: "Régime alimentaire aux fruits : bienfaits pour la santé"
 description: "Explorez les avantages d'un régime alimentaire aux fruits, ses impacts sur la santé et des conseils pratiques pour l'adopter."
-date: 2024-11-08
+date: 2024-12-08
 image: "/images/posts/mass1/alimentation-frugivore-dangers.webp"
 imageAlt: "Régime alimentaire aux fruits : bienfaits pour la santé"
 categories: ["Alimentation durable"]

@@ -2,7 +2,7 @@
 title: "Découvrez les Bienfaits du Lail des Ours : Guide Complet"
 meta_title: "Bienfaits du Lail des Ours : Guide Complet"
 description: "Explorez les nombreux bienfaits du Lail des Ours sur la santé, son utilisation en cuisine, et ses propriétés médicinales dans notre guide complet."
-date: 2024-11-07
+date: 2024-12-07
 image: "/images/posts/mass1/ail-ours-poudre-bio-50.webp"
 imageAlt: "Bienfaits du Lail des Ours : Guide Complet"
 categories: ["Jardin biodiversite"]

@@ -8,7 +8,7 @@ imageAlt: "Alignement des dents : Guide complet pour un sourire"
 categories: ["Bien-etre naturel"]
 authors: ["Gerard Delao"]
 tags: []
-draft: true
+draft: false
 ---
 
 Aligner ses dents est un enjeu qui dépasse de loin l'aspect esthétique. Un sourire bien aligné est non seulement synonyme de confiance en soi, mais il joue également un rôle crucial dans la santé dentaire. En effet, des dents mal positionnées peuvent engendrer divers problèmes, comme des douleurs dentaires, des difficultés à mastiquer ou même des troubles de l'articulation temporo-mandibulaire. Ce guide complet vous aidera à comprendre les différentes méthodes pour aligner vos dents, leurs avantages et inconvénients, ainsi que des conseils pratiques pour obtenir le sourire que vous désirez.

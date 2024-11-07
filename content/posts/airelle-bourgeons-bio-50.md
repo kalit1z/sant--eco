@@ -2,7 +2,7 @@
 title: "Bourgeon d'Airelle : Contre-indications à connaître absolument"
 meta_title: "Bourgeon d'Airelle : Attention aux Contre-indications"
 description: "Découvrez les contre-indications des bourgeons d'airelle pour une utilisation sûre et éclairée de ce remède naturel."
-date: 2024-11-07
+date: 2024-12-07
 image: "/images/posts/mass1/airelle-bourgeons-bio-50.webp"
 imageAlt: "Bourgeon d'Airelle : Attention aux Contre-indications"
 categories: ["Bien-etre naturel"]
