@@ -8,7 +8,7 @@ imageAlt: "Recettes Vegan Savoureuses à Découvrir"
 categories: ["Alimentation durable"]
 authors: ["Aurelie Mateus"]
 tags: []
-draft: true
+draft: false
 ---
 
 La cuisine vegan ne se limite pas seulement à un régime alimentaire; elle représente un véritable mode de vie, respectueux de l'environnement et riche en saveurs. En choisissant d'adopter une alimentation vegan, les individus soutiennent non seulement leur santé personnelle, mais également celle de la planète. Ce type de cuisine offre une multitude d'options délicieuses et créatives qui nourrissent le corps tout en préservant les ressources naturelles. Dans cet article, nous explorerons les merveilles de la cuisine vegan, des recettes incroyables aux conseils pratiques pour débuter ce voyage culinaire.

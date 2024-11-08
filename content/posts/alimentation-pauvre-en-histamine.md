@@ -8,7 +8,7 @@ imageAlt: "Huile de Cameline : Bienfaits pour vos Intestins"
 categories: ["Bien-etre naturel"]
 authors: ["Gerard Delao"]
 tags: []
-draft: true
+draft: false
 ---
 
 L'huile de cameline, souvent négligée au profit d'autres huiles végétales, mérite toute notre attention. Originelle de la culture ancienne, cette huile est non seulement utilisée pour ses applications culinaires, mais présente également un intérêt considérable pour la santé intestinale. Dans cet article, plongeons dans les bienfaits de l'huile de cameline pour notre microbiote et notre digestion, une thématique cruciale à une époque où la santé intestinale est plus que jamais au centre des préoccupations.
