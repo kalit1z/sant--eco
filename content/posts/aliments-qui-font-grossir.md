@@ -8,7 +8,7 @@ imageAlt: "Aliments pour prise de masse : 10 incontournables"
 categories: ["Bien-etre naturel"]
 authors: ["Gerard Delao"]
 tags: []
-draft: true
+draft: false
 ---
 
 La prise de masse est un objectif partagé par de nombreux athlètes et passionnés de fitness. Il ne s’agit pas uniquement d’augmenter son poids, mais de développer une masse musculaire saine et solide. Pour y parvenir, il est essentiel de faire le bon choix parmi les aliments que vous consommez. Cet article explore les meilleurs aliments caloriques pour optimiser votre prise de masse, en vous offrant des conseils pratiques et des informations précises pour soutenir votre parcours.
