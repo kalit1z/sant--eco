@@ -2,7 +2,7 @@
   "site": {
     "title": "Éco vrac | Astuces écologique",
     "base_url": "https://www.eco-vrac.fr/",
-    "favicon": "/images/favicon.png",
+    "favicon": "/images/favicon.ico",
     "logo": "/images/logo.png",
     "logo_width": "234",
     "logo_height": "50",
@@ -23,7 +23,7 @@
 
   "metadata": {
     "meta_author": "Équipe Éco vrac",
-    "meta_image": "/images/favicon.png",
+    "meta_image": "/images/favicon.ico",
     "meta_description": "Découvrez nos rubriques dédiées à un mode de vie éco-responsable. De la consommation zéro déchet aux astuces pour une maison verte, en passant par l'alimentation durable, trouvez l'inspiration pour chaque aspect d'une vie plus respectueuse de l'environnement."
   }
 }

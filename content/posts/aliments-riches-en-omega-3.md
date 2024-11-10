@@ -1,8 +1,8 @@
 ---
-title: "Tableau Aliments Riches en Oméga-3 PDF : Boostez Votre Santé!"
+title: "Tableau Aliments Riches en Oméga-3  : Boostez Votre Santé!"
 meta_title: "Aliments riches en oméga-3 : Guide complet"
-description: "Découvrez le tableau des aliments riches en oméga-3 en PDF pour améliorer votre santé. Apprenez les bienfaits et comment les intégrer dans votre alimentation."
-date: 2024-11-11
+description: "Découvrez le tableau des aliments riches en oméga-3  pour améliorer votre santé. Apprenez les bienfaits et comment les intégrer dans votre alimentation."
+date: 2024-12-11
 image: "/images/posts/mass1/aliments-riches-en-omega-3.webp"
 imageAlt: "Aliments riches en oméga-3 : Guide complet"
 categories: ["Bien-etre naturel"]

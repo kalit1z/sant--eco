@@ -2,7 +2,7 @@
 title: "Découvrez les Bienfaits du Magnésium et Fer pour Votre Santé"
 meta_title: "Les Bienfaits du Magnésium et du Fer"
 description: "Découvrez l'importance du magnésium et du fer pour votre santé et comment les intégrer efficacement dans votre alimentation."
-date: 2024-11-11
+date: 2024-12-11
 image: "/images/posts/mass1/aliments-riches-en-magnesium.webp"
 imageAlt: "Les Bienfaits du Magnésium et du Fer"
 categories: ["Bien-etre naturel"]
