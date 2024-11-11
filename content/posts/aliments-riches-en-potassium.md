@@ -8,7 +8,7 @@ imageAlt: "Potassium : Bienfaits et Utilisation en Compléments"
 categories: ["Bien-etre naturel"]
 authors: ["Gerard Delao"]
 tags: []
-draft: true
+draft: false
 ---
 
 Le potassium est souvent considéré comme un minéral sous-estimé, mais il joue un rôle essentiel dans notre santé. En effet, ce macrominéral est crucial pour le bon fonctionnement de notre organisme. Ses bienfaits vont au-delà de la simple régulation de l'hydratation et de l'équilibre électrolytique. La prise de compléments alimentaires à base de potassium peut s'avérer bénéfique pour plusieurs groupes de personnes, notamment celles souffrant de carences. Cet article se plonge dans l'univers du potassium, abordant ses bénéfices, ses sources, et les précautions à prendre lors de son utilisation.
