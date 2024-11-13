@@ -15,7 +15,7 @@ Le potassium est souvent considéré comme un minéral sous-estimé, mais il jou
 
 ## Les bienfaits du potassium pour la santé
 
-### 1. Rôle cruciale dans la régulation de la pression artérielle
+### Rôle cruciale dans la régulation de la pression artérielle
 
 Le potassium est connu pour son effet positif sur la pression sanguine. Plusieurs études montrent que l'augmentation de l'apport en potassium peut contribuer à réduire les niveaux de pression artérielle.
 

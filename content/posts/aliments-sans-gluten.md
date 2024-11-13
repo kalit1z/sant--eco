@@ -8,7 +8,7 @@ imageAlt: "Gluten et pommes de terre : Ce qu'il faut savoir"
 categories: ["Alimentation durable"]
 authors: ["Aurelie Mateus"]
 tags: []
-draft: true
+draft: false
 ---
 
 Les pommes de terre sont un aliment de base dans de nombreuses cuisines à travers le monde. Riches en nutriments, elles sont souvent présentes sur nos tables sous différentes formes, que ce soit en purée, rôties ou frites. Cependant, avec l'émergence de régimes sans gluten et la prise de conscience croissante des problèmes liés au gluten, une question importante se pose : y a-t-il du gluten dans les pommes de terre ? Dans cet article, nous allons explorer en détail cette question et déchiffrer les implications pour ceux qui doivent suivre un régime sans gluten.

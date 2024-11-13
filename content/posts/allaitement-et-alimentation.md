@@ -2,7 +2,7 @@
 title: "Spiruline et allaitement : Bienfaits et conseils pour maman"
 meta_title: "Spiruline : Bienfaits pour maman allaitante"
 description: "Découvrez les bienfaits de la spiruline pendant l'allaitement, ainsi que des conseils pratiques pour les mamans."
-date: 2024-11-14
+date: 2024-12-14
 image: "/images/posts/mass1/allaitement-et-alimentation.webp"
 imageAlt: "Spiruline : Bienfaits pour maman allaitante"
 categories: ["Bien-etre naturel"]

@@ -2,7 +2,7 @@
 title: "Vitamine C Cochon d'Inde : Bienfaits et Alimentation Essentielle"
 meta_title: "Vitamine C pour Cochons d'Inde : Essentielle!"
 description: "Découvrez l'importance de la vitamine C pour votre cochon d'inde : bienfaits, sources alimentaires et conseils d'alimentation!"
-date: 2024-11-13
+date: 2024-12-13
 image: "/images/posts/mass1/aliments-riches-en-vitamine-c.webp"
 imageAlt: "Vitamine C pour Cochons d'Inde : Essentielle!"
 categories: ["Bien-etre naturel"]
