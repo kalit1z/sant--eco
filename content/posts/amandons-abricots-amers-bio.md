@@ -2,7 +2,7 @@
 title: "Vit B17 : Bienfaits, Sources, et Mythes Dévoilés !"
 meta_title: "Vit B17 : bienfaits et mythes démystifiés"
 description: "Découvrez les bienfaits, sources et vérités sur la Vit B17, un sujet controversé mais passionnant sur la santé."
-date: 2024-11-16
+date: 2024-12-16
 image: "/images/posts/mass1/amandons-abricots-amers-bio.webp"
 imageAlt: "Vit B17 : bienfaits et mythes démystifiés"
 categories: ["Bien-etre naturel"]
