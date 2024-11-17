@@ -2,7 +2,7 @@
 title: "Lunettes à Trous : Avis d'Ophtalmologues pour une Vision Claire"
 meta_title: "Lunettes à Trous : Analyse des Ophtalmologues"
 description: "Découvrez les avis d'ophtalmologues sur les lunettes à trous et leur impact sur la vision. Explorez les avantages et inconvénients pour une meilleure santé oculaire."
-date: 2024-11-17
+date: 2024-12-17
 image: "/images/posts/mass1/ameliorer-sa-vue-naturellement.webp"
 imageAlt: "Lunettes à Trous : Analyse des Ophtalmologues"
 categories: ["Bien-etre naturel"]

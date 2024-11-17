@@ -2,7 +2,7 @@
 title: "Tout savoir sur le pansement pour ampoule au pied : Guide pratique"
 meta_title: "Pansement pour ampoule au pied : Tout savoir"
 description: "Découvrez tout sur le pansement pour ampoule au pied : types, utilisation et conseils pratiques pour soulager vos douleurs."
-date: 2024-11-17
+date: 2024-12-17
 image: "/images/posts/mass1/ampoules-pieds.webp"
 imageAlt: "Pansement pour ampoule au pied : Tout savoir"
 categories: ["Bien-etre naturel"]

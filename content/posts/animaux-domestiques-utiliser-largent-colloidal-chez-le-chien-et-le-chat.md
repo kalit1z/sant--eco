@@ -2,7 +2,7 @@
 title: "Les bienfaits de l'argent colloïdal pour votre chien : Guide complet"
 meta_title: "Argent colloïdal chien : Bienfaits et conseils"
 description: "Découvrez les bienfaits de l'argent colloïdal pour votre chien, son utilisation, ses effets et les précautions à prendre."
-date: 2024-11-18
+date: 2024-12-18
 image: "/images/posts/mass1/animaux-domestiques-utiliser-largent-colloidal-chez-le-chien-et-le-chat.webp"
 imageAlt: "Argent colloïdal chien : Bienfaits et conseils"
 categories: ["Bien-etre naturel"]

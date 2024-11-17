@@ -2,7 +2,7 @@
 title: "Tout sur la fenêtre anabolique : Optimisez vos résultats !"
 meta_title: "Comprenez la fenêtre anabolique pour des résultats optimaux"
 description: "Découvrez tout ce qu'il faut savoir sur la fenêtre anabolique et comment maximiser vos résultats. Stratégies, conseils et FAQ pratiques."
-date: 2024-11-17
+date: 2024-12-17
 image: "/images/posts/mass1/anabolisme.webp"
 imageAlt: "Comprenez la fenêtre anabolique pour des résultats optimaux"
 categories: ["Bien-etre naturel"]
