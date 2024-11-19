@@ -2,7 +2,7 @@
 title: "An Shen Bu Xin Pian : Le guide ultime pour les passionnés"
 meta_title: "An Shen Bu Xin Pian : Bienfaits et applications"
 description: "Découvrez An Shen Bu Xin Pian, ses bienfaits, son utilisation, et des conseils pratiques pour favoriser votre bien-être mental et émotionnel."
-date: 2024-11-19
+date: 2024-12-19
 image: "/images/posts/mass1/an-shen-bu-xin-wan-energetique-chinoise.webp"
 imageAlt: "An Shen Bu Xin Pian : Bienfaits et applications"
 categories: ["Bien-etre naturel"]
