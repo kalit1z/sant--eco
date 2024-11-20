@@ -8,7 +8,7 @@ imageAlt: "Réduisez votre cortisol avec ces huiles essentielles"
 categories: ["Bien-etre naturel"]
 authors: ["Gerard Delao"]
 tags: []
-draft: true
+draft: false
 ---
 
 Dans un monde où le stress fait partie intégrante de notre quotidien, la recherche de solutions naturelles pour réguler nos niveaux de cortisol s'avère plus pertinente que jamais. Le cortisol, souvent surnommé l'hormone du stress, joue un rôle crucial dans notre organisme, mais des niveaux chroniquement élevés peuvent engendrer des désagréments tels que l'anxiété, la prise de poids et divers problèmes de santé. Ainsi, de nombreuses personnes se tournent vers des alternatives à base de plantes, notamment les huiles essentielles, qui se distinguent non seulement par leurs arômes envoûtants, mais aussi par leurs vertus apaisantes.

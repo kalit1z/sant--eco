@@ -8,7 +8,7 @@ imageAlt: "Fabriquez votre déodorant naturel maison"
 categories: ["Bien-etre naturel"]
 authors: ["Gerard Delao"]
 tags: []
-draft: true
+draft: false
 ---
 
 Dans un monde où la tendance vers des produits plus naturels et respectueux de l'environnement prend de l'ampleur, il est temps de se pencher sur la fabrication de son propre déodorant. Entre la peur des ingrédients toxiques présents dans certains produits commerciaux et le désir d'adopter un mode de vie plus sain et durable, créer son déodorant maison devient une solution incontournable. Alors, comment faire pour réaliser un déodorant efficace, doux pour la peau et à moindres coûts ? Suivez le guide !
