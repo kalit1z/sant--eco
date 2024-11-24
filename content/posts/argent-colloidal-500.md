@@ -2,7 +2,7 @@
 title: "Découvrez les Bienfaits de l'Argent Colloïdal à Boire"
 meta_title: "Bienfaits de l'Argent Colloïdal à Boire"
 description: "Explorez les bienfaits de l'argent colloïdal à boire, ses propriétés et son utilisation pour une santé optimale."
-date: 2024-11-24
+date: 2024-12-24
 image: "/images/posts/mass1/argent-colloidal-500.webp"
 imageAlt: "Bienfaits de l'Argent Colloïdal à Boire"
 categories: ["Bien-etre naturel"]

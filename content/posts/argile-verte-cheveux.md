@@ -8,7 +8,7 @@ imageAlt: "Argile verte pour des cheveux éclatants et sains"
 categories: ["Bien-etre naturel"]
 authors: ["Gerard Delao"]
 tags: []
-draft: true
+draft: false
 ---
 
 L'argile verte est une véritable merveille de la nature, connue pour ses multiples vertus sur la peau et les cheveux. De plus en plus de personnes recherchent des solutions naturelles pour prendre soin de leur chevelure, et l'argile verte émerge comme un ingrédient incontournable. Dans cet article, nous allons explorer en profondeur les bienfaits de l'argile verte pour les cheveux, son utilisation, et pourquoi elle est le secret que vous attendiez pour des cheveux éclatants et en pleine santé.
