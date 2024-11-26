@@ -8,7 +8,7 @@ imageAlt: "Quand prendre ashwagandha : Guide pratique"
 categories: ["Bien-etre naturel"]
 authors: ["Gerard Delao"]
 tags: []
-draft: true
+draft: false
 ---
 
 L'ashwagandha, une herbe médicinale ancestrale originaire de la médecine ayurvédique, est de plus en plus populaire pour ses propriétés adaptogènes et son impact positif sur la santé physique et mentale. Avec une écoute toujours croissante pour les remèdes naturels, de nombreuses personnes se posent la question : quand prendre ashwagandha pour en tirer le meilleur parti ? Cet article vous guidera à travers les moments optimaux pour sa consommation, ses bienfaits, et comment l'intégrer à votre routine quotidienne.

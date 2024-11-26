@@ -2,7 +2,7 @@
 title: "Les Meilleurs Compléments Alimentaires pour Articulations du Genou"
 meta_title: "Compléments Alimentaires pour Articulations du Genou"
 description: "Découvrez les meilleurs compléments alimentaires pour soulager les douleurs articulaires du genou et améliorer votre mobilité."
-date: 2024-11-26
+date: 2024-12-26
 image: "/images/posts/mass1/articulations-02-04-01.webp"
 imageAlt: "Compléments Alimentaires pour Articulations du Genou"
 categories: ["Bien-etre naturel"]

@@ -8,7 +8,7 @@ imageAlt: "Ashwagandha Poudre : Bienfaits & Utilisations"
 categories: ["Bien-etre naturel"]
 authors: ["Gerard Delao"]
 tags: []
-draft: true
+draft: false
 ---
 
 Le stress, l'anxiété et la fatigue sont des compagnons indésirables dans le quotidien de beaucoup d'entre nous. Dans ce contexte, l'ashwagandha, également connue sous le nom de *Withania somnifera*, est de plus en plus reconnue pour ses multiples bienfaits. Cette plante adaptogène, utilisée depuis des siècles dans la médecine ayurvédique, est aujourd'hui plébiscitée pour son action positive sur le bien-être physique et mental. Mais qu'est-ce que cette poudre mystérieuse renferme vraiment ? Cet article propose une exploration approfondie de l'ashwagandha en poudre, ses bienfaits, ses usages, et bien plus encore. 

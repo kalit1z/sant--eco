@@ -2,7 +2,7 @@
 title: "Découvrez les bienfaits de l'astaxanthine bio pour votre santé"
 meta_title: "Astaxanthine bio : Bienfaits et Utilisations"
 description: "Découvrez les incroyables bienfaits de l'astaxanthine bio pour votre santé. Antioxydant puissant, elle booste votre bien-être au quotidien."
-date: 2024-11-27
+date: 2024-12-27
 image: "/images/posts/mass1/astaxanthin80-30.webp"
 imageAlt: "Astaxanthine bio : Bienfaits et Utilisations"
 categories: ["Bien-etre naturel"]
