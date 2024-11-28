@@ -8,7 +8,7 @@ imageAlt: "Extraits Végétaux: Bienfaits et Utilisations"
 categories: ["Jardin biodiversite"]
 authors: ["Gerard Delao"]
 tags: []
-draft: true
+draft: false
 ---
 
 Les extraits végétaux, véritable trésor de la nature, sont souvent prisés pour leurs multiples bienfaits. Que ce soit dans le domaine de la santé, de la beauté ou même de l'alimentation, ils apportent des propriétés uniques, agissant en tant que puissants alliés pour le bien-être. Dans cet article, nous explorerons en profondeur ce qui fait des extraits végétaux un choix incontournable dans nos vies modernes, de leurs bénéfices à leur utilisation au quotidien.

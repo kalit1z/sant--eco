@@ -2,7 +2,7 @@
 title: "Astragale : Découvrez ses bienfaits pour la peau !"
 meta_title: "Bienfaits de l'Astragale pour la Peau"
 description: "Explorez les nombreux bienfaits de l'astragale pour la peau, son utilisation, ses vertus et plus encore."
-date: 2024-11-28
+date: 2024-12-28
 image: "/images/posts/mass1/astragale-bio-40.webp"
 imageAlt: "Bienfaits de l'Astragale pour la Peau"
 categories: ["Bien-etre naturel"]
