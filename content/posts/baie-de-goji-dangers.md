@@ -2,7 +2,7 @@
 title: "Baie de Goji Témoignage : Découvrez Ses Bienfaits Incroyables"
 meta_title: "Baie de Goji : Témoignage et Bienfaits Epoustouflants"
 description: "Découvrez les bienfaits extraordinaires de la baie de goji à travers des témoignages authentiques et des conseils pratiques."
-date: 2024-12-01
+date: 2025-01-01
 image: "/images/posts/mass1/baie-de-goji-dangers.webp"
 imageAlt: "Baie de Goji : Témoignage et Bienfaits Epoustouflants"
 categories: ["Bien-etre naturel"]

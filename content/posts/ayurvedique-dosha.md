@@ -8,7 +8,7 @@ imageAlt: "Kapha Dosha : Équilibre et Bien-être Naturel"
 categories: ["Bien-etre naturel"]
 authors: ["Gerard Delao"]
 tags: []
-draft: true
+draft: false
 ---
 
 Le Kapha dosha est l’un des trois doshas de l’ayurvéda, une sagesse millénaire qui aide à comprendre notre constitution corporelle et nos prédispositions. Avec la montée des préoccupations pour le bien-être naturel et l'harmonie intérieure, il est plus que jamais crucial de se familiariser avec son propre dosha. Dans cet article, nous allons explorer en profondeur le Kapha dosha, comprendre ses effets sur notre santé, et découvrir comment créer un équilibre harmonieux dans notre vie quotidienne.

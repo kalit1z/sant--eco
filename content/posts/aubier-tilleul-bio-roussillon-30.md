@@ -2,7 +2,7 @@
 title: "Aubier du Tilleul : Bienfaits et Utilisations Incontournables"
 meta_title: "Aubier du Tilleul : Bienfaits et Usages Essentiels"
 description: "Découvrez les incroyables bienfaits de l'aubier du tilleul, ses utilisations, ainsi que ses propriétés uniques pour la santé et le bien-être."
-date: 2024-11-30
+date: 2024-12-30
 image: "/images/posts/mass1/aubier-tilleul-bio-roussillon-30.webp"
 imageAlt: "Aubier du Tilleul : Bienfaits et Usages Essentiels"
 categories: ["Bien-etre naturel"]

@@ -2,7 +2,7 @@
 title: "Huile de Magnésium Marin : Bienfaits et Utilisations Essentielles"
 meta_title: "Huile de Magnésium Marin : Bienfaits et Usages"
 description: "Découvrez les bienfaits de l'huile de magnésium marin, ses usages essentiels pour la santé et le bien-être au quotidien."
-date: 2024-11-30
+date: 2024-12-30
 image: "/images/posts/mass1/au-coeur-des-traditions-14-79.webp"
 imageAlt: "Huile de Magnésium Marin : Bienfaits et Usages"
 categories: ["Bien-etre naturel"]
