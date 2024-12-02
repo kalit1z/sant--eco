@@ -2,7 +2,7 @@
 title: "Gaz bébé : Comprendre et soulager les coliques de votre petit"
 meta_title: "Gaz bébé : Solutions et conseils pratiques"
 description: "Découvrez comment gérer les gaz chez les bébés, comprendre leur origine et soulager les coliques pour le bien-être de votre enfant."
-date: 2024-12-03
+date: 2024-12-23
 image: "/images/posts/mass1/ballonnements-solutions-rapides.webp"
 imageAlt: "Gaz bébé : Solutions et conseils pratiques"
 categories: ["Bien-etre naturel"]

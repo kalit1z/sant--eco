@@ -17,6 +17,11 @@ export default function RootLayout({ children }) {
           name="viewport"
           content="width=device-width, initial-scale=1, maximum-scale=5"
         />
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4432019948702503"
+          crossorigin="anonymous">
+        </script>
+        <meta name="google-adsense-account" content="ca-pub-4432019948702503"></meta>
+
 
         {/* favicon */}
         <link rel="shortcut icon" href={config.site.favicon} />
