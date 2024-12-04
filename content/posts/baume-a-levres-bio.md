@@ -2,7 +2,7 @@
 title: "Découvrez le baume huileux 5 lettres : le soin essentiel !"
 meta_title: "Baume huileux 5 lettres : le soin ultime"
 description: "Explorez le baume huileux 5 lettres, un soin clé pour la peau. Découvrez ses bienfaits et comment l'intégrer à votre routine beauté."
-date: 2024-12-04
+date: 2024-12-24
 image: "/images/posts/mass1/baume-a-levres-bio.webp"
 imageAlt: "Baume huileux 5 lettres : le soin ultime"
 categories: ["Bien-etre naturel"]
