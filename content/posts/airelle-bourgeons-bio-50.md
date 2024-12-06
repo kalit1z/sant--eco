@@ -8,7 +8,7 @@ imageAlt: "Bourgeon d'Airelle : Attention aux Contre-indications"
 categories: ["Bien-etre naturel"]
 authors: ["Gerard Delao"]
 tags: []
-draft: true
+draft: false
 ---
 
 Le bourgeon d'airelle, également connu pour ses propriétés médicinales, suscite un intérêt croissant parmi les amateurs de santé naturelle. Cependant, comme pour tout produit à base de plantes, il est crucial de se pencher sur les contre-indications avant de l'intégrer dans son régime. Comprendre les risques et les interactions possibles peut aider à éviter des effets indésirables imprévus. Cet article se veut une ressource complète pour quiconque s'intéresse à l'utilisation du bourgeon d'airelle, que ce soit pour ses potentiels bienfaits ou pour sa sécurité.

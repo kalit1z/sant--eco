@@ -2,7 +2,7 @@
 title: "Découvrez les Bienfaits de la Bave d'Escargot pour la Peau"
 meta_title: "Les Bienfaits de la Bave d'Escargot pour la Peau"
 description: "Explorez les vertus incroyables de la bave d'escargot pour la peau, des traitements aux soins naturels, et améliorez votre routine beauté."
-date: 2024-12-07
+date: 2024-12-27
 image: "/images/posts/mass1/bave-descargot-dangereuse.webp"
 imageAlt: "Les Bienfaits de la Bave d'Escargot pour la Peau"
 categories: ["Bien-etre naturel"]

@@ -2,7 +2,7 @@
 title: "Découvrez le Nectar of Bio : Bienfaits et Secrets Naturels"
 meta_title: "Nectar of Bio : Bienfaits et Secrets Naturels"
 description: "Explorez les bienfaits du Nectar of Bio, ses ingrédients, son utilisation, et comment il contribue à un mode de vie durable."
-date: 2024-12-06
+date: 2024-12-26
 image: "/images/posts/mass1/baume-peau-mature.webp"
 imageAlt: "Nectar of Bio : Bienfaits et Secrets Naturels"
 categories: ["Bien-etre naturel"]

@@ -2,7 +2,7 @@
 title: "Baume de Sebastopol : Secrets et Bienfaits pour Votre Peau"
 meta_title: "Baume de Sebastopol : Bienfaits et Utilisations"
 description: "Découvrez le baume de Sebastopol, ses origines, ses bienfaits pour la peau et comment l'intégrer dans votre routine de soin."
-date: 2024-12-07
+date: 2024-12-27
 image: "/images/posts/mass1/baume-sebastopol-jcm5.webp"
 imageAlt: "Baume de Sebastopol : Bienfaits et Utilisations"
 categories: ["Bien-etre naturel"]

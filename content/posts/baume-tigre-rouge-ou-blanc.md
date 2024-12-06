@@ -2,7 +2,7 @@
 title: "Baume Tigre Vert : Bienfaits et Utilisations Indispensables"
 meta_title: "Baume Tigre Vert : Bienfaits et Utilisations"
 description: "Découvrez les bienfaits et utilisations du Baume Tigre Vert, un remède naturel pour soulager douleurs, tensions et maux divers."
-date: 2024-12-07
+date: 2024-12-27
 image: "/images/posts/mass1/baume-tigre-rouge-ou-blanc.webp"
 imageAlt: "Baume Tigre Vert : Bienfaits et Utilisations"
 categories: ["Bien-etre naturel"]
