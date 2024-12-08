@@ -2,7 +2,7 @@
 title: "Bourgeon au nombril : Tout ce qu'il faut savoir pour le comprendre"
 meta_title: "Bourgeon au nombril : Causes et traitements"
 description: "Découvrez tout sur le bourgeon au nombril : ses causes, symptômes et traitements pour une santé optimale."
-date: 2024-12-09
+date: 2024-12-29
 image: "/images/posts/mass1/bebe-soins-cordon-ombilical.webp"
 imageAlt: "Bourgeon au nombril : Causes et traitements"
 categories: ["Bien-etre naturel"]

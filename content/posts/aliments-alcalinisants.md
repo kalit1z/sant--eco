@@ -2,7 +2,7 @@
 title: "Découvrez les Bienfaits des Produits Alcalins pour Votre Santé"
 meta_title: "Produits Alcalins : Bienfaits pour votre Santé"
 description: "Découvrez comment les produits alcalins peuvent améliorer votre santé et votre bien-être grâce à une alimentation équilibrée et naturelle."
-date: 2024-12-09
+date: 2024-12-29
 image: "/images/posts/mass1/aliments-alcalinisants.webp"
 imageAlt: "Produits Alcalins : Bienfaits pour votre Santé"
 categories: ["Bien-etre naturel"]
