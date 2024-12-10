@@ -2,7 +2,7 @@
 title: "Découverte du Cuivre et Zinc : Bienfaits et Usages Essentiels"
 meta_title: "Cuivre et Zinc : leurs bienfaits essentiels"
 description: "Découvrez les bienfaits du cuivre et du zinc pour la santé et leur utilisation dans votre quotidien."
-date: 2024-12-10
+date: 2024-12-20
 image: "/images/posts/mass1/aliments-riches-en-cuivre.webp"
 imageAlt: "Cuivre et Zinc : leurs bienfaits essentiels"
 categories: ["Bien-etre naturel"]
