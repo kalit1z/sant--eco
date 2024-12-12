@@ -2,7 +2,7 @@
 title: "Guide Ultime pour l'Homme Bien-Être : Équilibre et Santé"
 meta_title: "Homme Bien-Être : Équilibre et Santé Durable"
 description: "Découvrez le guide complet pour l'homme bien-être, avec des conseils pratiques pour équilibrer votre santé physique et mentale."
-date: 2024-12-12
+date: 2024-12-22
 image: "/images/posts/mass1/bien-etre-homme-30.webp"
 imageAlt: "Homme Bien-Être : Équilibre et Santé Durable"
 categories: ["Bien-etre naturel"]
