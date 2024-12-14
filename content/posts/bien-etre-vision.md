@@ -2,7 +2,7 @@
 title: "Vision Bien-Être : Transformez Votre Vie avec Équilibre et Joie"
 meta_title: "Vision Bien-Être : Équilibre et Joie au Quotidien"
 description: "Découvrez comment la vision bien-être peut transformer votre vie en vous apportant équilibre et joie à travers des pratiques simples et efficaces."
-date: 2024-12-14
+date: 2024-12-24
 image: "/images/posts/mass1/bien-etre-vision.webp"
 imageAlt: "Vision Bien-Être : Équilibre et Joie au Quotidien"
 categories: ["Bien-etre naturel"]

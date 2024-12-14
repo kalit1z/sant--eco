@@ -8,7 +8,7 @@ imageAlt: "Ail des ours séché : recettes et bienfaits"
 categories: ["bien-etre naturel", "alimentation durable"]
 authors: ["Gerard Delao"]
 tags: []
-draft: true
+draft: false
 ---
 
 L’ail des ours est une plante sauvage aux nombreuses vertus, souvent méconnue, mais qui mérite toute notre attention. Cette herbe aromatique, facile à identifier et à cueillir, est prisée tant pour ses qualités culinaires que pour ses propriétés médicinales. Aujourd'hui, nous allons explorer en profondeur l'ail des ours séché, ses bienfaits exceptionnels, des recettes délicieuses à base de cette plante et des astuces pratiques pour sa conservation. Préparez-vous à découvrir un monde de saveurs et de bien-être !

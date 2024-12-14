@@ -2,7 +2,7 @@
 title: "Découvrez comment Activa Bien-Être transforme votre quotidien"
 meta_title: "Activa Bien-Être: Améliorez votre vie au quotidien"
 description: "Découvrez comment Activa Bien-Être peut transformer votre quotidien grâce à des solutions naturelles et efficaces pour votre santé."
-date: 2024-12-14
+date: 2024-12-24
 image: "/images/posts/mass1/bien-etre-urinaire-30.webp"
 imageAlt: "Activa Bien-Être: Améliorez votre vie au quotidien"
 categories: ["Bien-etre naturel"]

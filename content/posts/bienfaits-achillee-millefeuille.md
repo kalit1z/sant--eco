@@ -8,7 +8,7 @@ imageAlt: "Achillée Millefeuille : Bienfaits et Usages"
 categories: ["Bien-etre naturel"]
 authors: ["Gerard Delao"]
 tags: []
-draft: true
+draft: false
 ---
 
 L'achillée millefeuille, ou Achillea millefolium, est bien plus qu'une simple herbe sauvage que l'on croise lors de nos promenades en pleine nature. Appréciée depuis l'Antiquité pour ses propriétés médicinales, cette plante emblématique regorge de bienfaits nutritifs et thérapeutiques qui méritent d'être explorés en profondeur. Connue sous divers noms à travers le monde, elle est souvent utilisée dans la phytothérapie et la cuisine, faisant d'elle un incontournable dans les pratiques de bien-être naturel. Mais quels sont réellement ses bienfaits, et comment peut-on l'intégrer dans notre quotidien ? Dans cet article, nous plongerons dans l'univers fascinant de l'achillée millefeuille et découvrirons toutes ses facettes.
