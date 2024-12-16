@@ -2,7 +2,7 @@
 title: "Découvrez les Bienfaits du Curcuma en Liquide pour votre Santé"
 meta_title: "Curcuma liquide : bienfaits santé et recettes"
 description: "Découvrez les nombreux bienfaits du curcuma en liquide pour votre santé, ses applications et des recettes faciles à réaliser."
-date: 2024-12-16
+date: 2024-12-26
 image: "/images/posts/mass1/bienfaits-curcuma.webp"
 imageAlt: "Curcuma liquide : bienfaits santé et recettes"
 categories: ["Bien-etre naturel"]

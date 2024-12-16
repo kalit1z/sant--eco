@@ -2,7 +2,7 @@
 title: "Découvrez les Bienfaits du Lait d'Amande pour Votre Santé"
 meta_title: "Bienfaits du Lait d'Amande pour la Santé"
 description: "Découvrez comment le lait d'amande peut améliorer votre santé avec ses bienfaits nutritionnels et ses alternatives véganes."
-date: 2024-12-17
+date: 2024-12-27
 image: "/images/posts/mass1/bienfaits-du-lait-amande.webp"
 imageAlt: "Bienfaits du Lait d'Amande pour la Santé"
 categories: ["Bien-etre naturel"]

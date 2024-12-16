@@ -2,7 +2,7 @@
 title: "Découvrez les Bienfaits du Sencha : Boostez Votre Santé!"
 meta_title: "Les Bienfaits du Sencha pour Votre Santé"
 description: "Découvrez comment le Sencha, un thé vert japonais, peut transformer votre santé grâce à ses nombreux bienfaits."
-date: 2024-12-17
+date: 2024-12-27
 image: "/images/posts/mass1/bienfaits-du-the-vert.webp"
 imageAlt: "Les Bienfaits du Sencha pour Votre Santé"
 categories: ["Bien-etre naturel"]

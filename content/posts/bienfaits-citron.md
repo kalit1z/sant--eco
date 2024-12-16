@@ -2,7 +2,7 @@
 title: "Combien de ml dans le jus d'un citron ? Guide complet et astuces"
 meta_title: "Jus de citron : Combien de ml en une citron ?"
 description: "Découvrez combien de ml de jus se cachent dans un citron et des astuces pratiques pour l'utiliser dans votre cuisine."
-date: 2024-12-16
+date: 2024-12-26
 image: "/images/posts/mass1/bienfaits-citron.webp"
 imageAlt: "Jus de citron : Combien de ml en une citron ?"
 categories: ["Alimentation durable"]
