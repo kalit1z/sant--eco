@@ -2,7 +2,7 @@
 title: "Levure de bière et sommeil : Comment améliorer vos nuits ?"
 meta_title: "Levure de bière : améliorer votre sommeil naturellement"
 description: "Découvrez comment la levure de bière peut favoriser un meilleur sommeil et améliorer votre bien-être. Informez-vous sur ses bienfaits dès maintenant !"
-date: 2024-12-19
+date: 2024-12-29
 image: "/images/posts/mass1/bienfaits-levure-de-biere.webp"
 imageAlt: "Levure de bière : améliorer votre sommeil naturellement"
 categories: ["Bien-etre naturel"]
