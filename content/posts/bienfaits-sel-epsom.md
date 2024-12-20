@@ -2,7 +2,7 @@
 title: "Découvrez les bienfaits du sel d'Epsom en pharmacie"
 meta_title: "Les bienfaits du sel d'Epsom : astuces santé"
 description: "Explorez les multiples bienfaits du sel d'Epsom, son utilisation en pharmacie et comment il peut améliorer votre bien-être au quotidien."
-date: 2024-12-21
+date: 2025-01-02
 image: "/images/posts/mass1/bienfaits-sel-epsom.webp"
 imageAlt: "Les bienfaits du sel d'Epsom : astuces santé"
 categories: ["Bien-etre naturel"]

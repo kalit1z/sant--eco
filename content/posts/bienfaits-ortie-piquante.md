@@ -2,7 +2,7 @@
 title: "Découvrez les Bienfaits Insoupçonnés de l'Ortie Piquante"
 meta_title: "Avantages de l'Ortie Piquante : Bienfaits et Usages"
 description: "Découvrez les bienfaits secrets de l'ortie piquante pour la santé, la cuisine et le jardin. Un trésor naturel à exploiter!"
-date: 2024-12-20
+date: 2025-01-01
 image: "/images/posts/mass1/bienfaits-ortie-piquante.webp"
 imageAlt: "Avantages de l'Ortie Piquante : Bienfaits et Usages"
 categories: ["Jardin biodiversite"]

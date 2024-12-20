@@ -2,7 +2,7 @@
 title: "Omega 3 : Découvrez ses bienfaits incroyables pour la peau"
 meta_title: "Les incroyables bienfaits des Omega 3 pour la peau"
 description: "Découvrez comment les Omega 3 peuvent transformer la santé de votre peau, en améliorant l'hydratation, la souplesse et en réduisant l'inflammation."
-date: 2024-12-20
+date: 2025-01-01
 image: "/images/posts/mass1/bienfaits-omega-3.webp"
 imageAlt: "Les incroyables bienfaits des Omega 3 pour la peau"
 categories: ["Bien-etre naturel"]

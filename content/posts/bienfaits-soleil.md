@@ -2,7 +2,7 @@
 title: "Pourquoi notre besoin de soleil est essentiel à notre bien-être"
 meta_title: "Le soleil, clé de notre bien-être quotidien"
 description: "Découvrez pourquoi le soleil est essentiel pour notre santé physique et mentale, et comment en profiter au quotidien."
-date: 2024-12-21
+date: 2025-01-02
 image: "/images/posts/mass1/bienfaits-soleil.webp"
 imageAlt: "Le soleil, clé de notre bien-être quotidien"
 categories: ["Bien-etre naturel"]

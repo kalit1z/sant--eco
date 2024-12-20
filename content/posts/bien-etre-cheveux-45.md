@@ -2,7 +2,7 @@
 title: "Découvrez les Bienfaits du Saw Palmetto pour vos Cheveux"
 meta_title: "Saw Palmetto : bienfaits pour les cheveux"
 description: "Découvrez comment le saw palmetto peut renforcer et promouvoir la croissance des cheveux de manière naturelle."
-date: 2024-12-21
+date: 2025-01-02
 image: "/images/posts/mass1/bien-etre-cheveux-45.webp"
 imageAlt: "Saw Palmetto : bienfaits pour les cheveux"
 categories: ["Bien-etre naturel"]

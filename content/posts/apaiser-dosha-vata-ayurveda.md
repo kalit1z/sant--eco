@@ -2,7 +2,7 @@
 title: "Découvrez Vata : Équilibrez Votre Énergie pour une Vie Saine"
 meta_title: "Vata en Ayurveda : Équilibrez votre bien-être"
 description: "Découvrez Vata, l'un des doshas de l'Ayurveda, pour harmoniser votre énergie et améliorer votre santé avec des conseils pratiques."
-date: 2024-12-21
+date: 2025-01-02
 image: "/images/posts/mass1/apaiser-dosha-vata-ayurveda.webp"
 imageAlt: "Vata en Ayurveda : Équilibrez votre bien-être"
 categories: ["Bien-etre naturel"]
