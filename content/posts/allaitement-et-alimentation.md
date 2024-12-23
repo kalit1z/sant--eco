@@ -8,7 +8,7 @@ imageAlt: "Spiruline : Bienfaits pour maman allaitante"
 categories: ["Bien-etre naturel"]
 authors: ["Gerard Delao"]
 tags: []
-draft: true
+draft: false
 ---
 
 La période de l’allaitement est cruciale pour la santé de la mère et de l'enfant. Les mères cherchent souvent des moyens d’optimiser leur alimentation afin de garantir un bon développement à leur bébé tout en prenant soin de leur propre santé. Dans cette optique, la spiruline, cette micro-algue riche en nutriments, suscite un intérêt croissant. Mais quels sont réellement les avantages de la spiruline pour les mamans allaitantes ? Cet article vous propose un voyage au cœur de la spiruline et de ses bienfaits inestimables pendant l’allaitement, ainsi que des conseils pratiques pour l'intégrer dans votre alimentation.

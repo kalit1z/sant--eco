@@ -2,7 +2,7 @@
 title: "Découvrez notre batch cooking PDF gratuit : Simplifiez vos repas !"
 meta_title: "Batch Cooking PDF Gratuit : Simplifiez Vos Repas"
 description: "Téléchargez notre PDF gratuit de batch cooking et découvrez comment planifier, cuisiner et stocker vos repas pour gagner du temps !"
-date: 2024-12-23
+date: 2024-12-29
 image: "/images/posts/mass1/batch-cooking-pour-bebe.webp"
 imageAlt: "Batch Cooking PDF Gratuit : Simplifiez Vos Repas"
 categories: ["Alimentation durable"]

@@ -2,7 +2,7 @@
 title: "Découvrez les Bienfaits de la Graine de Goji pour votre Santé"
 meta_title: "Les bienfaits des graines de goji pour votre santé"
 description: "Découvrez comment les graines de goji peuvent booster votre santé et bien-être grâce à leurs multiples bienfaits."
-date: 2024-12-22
+date: 2024-12-28
 image: "/images/posts/mass1/baies-de-goji-bio.webp"
 imageAlt: "Les bienfaits des graines de goji pour votre santé"
 categories: ["Bien-etre naturel"]

@@ -2,7 +2,7 @@
 title: "Tout savoir sur la santé gastrique : conseils et astuces"
 meta_title: "Santé gastrique : conseils essentiels"
 description: "Découvrez tout sur la santé gastrique avec nos conseils pratiques et astuces pour améliorer votre bien-être. Informez-vous dès maintenant !"
-date: 2024-12-22
+date: 2024-12-28
 image: "/images/posts/mass1/bien-etre-gastric-30.webp"
 imageAlt: "Santé gastrique : conseils essentiels"
 categories: ["Bien-etre naturel"]

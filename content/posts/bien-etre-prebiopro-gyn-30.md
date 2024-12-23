@@ -2,7 +2,7 @@
 title: "Découvrez Progyn : Le Guide Complet pour Mieux Comprendre"
 meta_title: "Guide complet sur Progyn : bienfaits et utilisation"
 description: "Découvrez tout sur Progyn : ses bienfaits, utilisations et réponses aux questions fréquentes. Informez-vous dès maintenant."
-date: 2024-12-23
+date: 2024-12-29
 image: "/images/posts/mass1/bien-etre-prebiopro-gyn-30.webp"
 imageAlt: "Guide complet sur Progyn : bienfaits et utilisation"
 categories: ["Bien-etre naturel"]

@@ -2,7 +2,7 @@
 title: "Découvrez les bienfaits des aliments en Y pour votre santé"
 meta_title: "Aliments en Y : Bienfaits incroyables pour la santé"
 description: "Explorez les multiples bienfaits des aliments en Y. Découvrez comment intégrer ces super-aliments à votre alimentation pour un bien-être optimal."
-date: 2024-12-23
+date: 2024-12-29
 image: "/images/posts/mass1/aliments-riches-en-vitamine-d.webp"
 imageAlt: "Aliments en Y : Bienfaits incroyables pour la santé"
 categories: ["Bien-etre naturel"]

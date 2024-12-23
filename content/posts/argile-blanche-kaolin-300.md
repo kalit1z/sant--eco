@@ -2,7 +2,7 @@
 title: "Argile blanche pour cheveux : les bienfaits et astuces incontournables"
 meta_title: "Argile blanche pour cheveux : bienfaits et astuces"
 description: "Découvrez les bienfaits de l'argile blanche pour vos cheveux et des astuces pour l'utiliser au quotidien. Une solution naturelle pour des cheveux en santé."
-date: 2024-12-24
+date: 2024-12-29
 image: "/images/posts/mass1/argile-blanche-kaolin-300.webp"
 imageAlt: "Argile blanche pour cheveux : bienfaits et astuces"
 categories: ["Bien-etre naturel"]

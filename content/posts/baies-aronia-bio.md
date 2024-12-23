@@ -2,7 +2,7 @@
 title: "Découvrez les bienfaits incroyables de la baie aronia"
 meta_title: "Les bienfaits de la baie aronia pour votre santé"
 description: "Découvrez les incroyables bienfaits pour la santé de la baie aronia, ses usages et recettes, et comment l'intégrer dans votre alimentation."
-date: 2024-12-22
+date: 2024-12-28
 image: "/images/posts/mass1/baies-aronia-bio.webp"
 imageAlt: "Les bienfaits de la baie aronia pour votre santé"
 categories: ["bien-etre naturel", "alimentation durable"]

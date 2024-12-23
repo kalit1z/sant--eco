@@ -2,7 +2,7 @@
 title: "Oeuf de lump enceinte : Bienfaits et précautions à connaître"
 meta_title: "Oeuf de lump enceinte : Bienfaits et Risques"
 description: "Découvrez les bienfaits et les précautions à prendre concernant la consommation d'œufs de lump pendant la grossesse."
-date: 2024-12-22
+date: 2024-12-28
 image: "/images/posts/mass1/aliments-riches-en-vitamine-a.webp"
 imageAlt: "Oeuf de lump enceinte : Bienfaits et Risques"
 categories: ["Bien-etre naturel"]

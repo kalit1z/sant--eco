@@ -2,7 +2,7 @@
 title: "Baume pour Bébé : Protection Douce et Naturelle pour Sa Peau"
 meta_title: "Baume pour bébé : protection douce et bio"
 description: "Découvrez les bienfaits du baume pour bébé, sa composition naturelle, et comment bien l'appliquer pour protéger la peau délicate de votre enfant."
-date: 2024-12-24
+date: 2024-12-29
 image: "/images/posts/mass1/baume-bebe-bio.webp"
 imageAlt: "Baume pour bébé : protection douce et bio"
 categories: ["Bien-etre naturel"]

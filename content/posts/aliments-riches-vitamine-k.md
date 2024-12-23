@@ -2,7 +2,7 @@
 title: "Découvrez les Légumes en K : Quels Bénéfices Pour Votre Santé ?"
 meta_title: "Légumes riches en vitamine K : Bienfaits santé"
 description: "Explorez les légumes riches en vitamine K, leurs bienfaits pour la santé et comment les intégrer dans votre alimentation quotidienne."
-date: 2024-12-23
+date: 2024-12-29
 image: "/images/posts/mass1/aliments-riches-vitamine-k.webp"
 imageAlt: "Légumes riches en vitamine K : Bienfaits santé"
 categories: ["Alimentation durable"]
