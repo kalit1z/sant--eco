@@ -2,7 +2,7 @@
 title: "Peau Grasse : Les Meilleures Huiles Essentielles à Tester !"
 meta_title: "Huiles Essentielles pour Peau Grasse : Guide Complet"
 description: "Découvrez les huiles essentielles les plus efficaces pour traiter la peau grasse. Astuces et conseils pour un teint parfait."
-date: 2024-12-26
+date: 2024-12-29
 image: "/images/posts/mass1/baume-peau-grasse-bio.webp"
 imageAlt: "Huiles Essentielles pour Peau Grasse : Guide Complet"
 categories: ["Bien-etre naturel"]

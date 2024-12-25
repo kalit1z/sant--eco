@@ -2,7 +2,7 @@
 title: "Argile Verte Poudre : Bienfaits, Utilisations et Recettes Naturelles"
 meta_title: "Argile Verte Poudre : Bienfaits et Utilisations"
 description: "Découvrez les bienfaits de l'argile verte en poudre pour la santé, la beauté et l'environnement. Recettes et conseils pratiques inclus!"
-date: 2024-12-25
+date: 2024-12-30
 image: "/images/posts/mass1/argile-verte-montmorillonite.webp"
 imageAlt: "Argile Verte Poudre : Bienfaits et Utilisations"
 categories: ["Bien-etre naturel"]

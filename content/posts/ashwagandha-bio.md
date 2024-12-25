@@ -2,7 +2,7 @@
 title: "Ashwagandha en France : Bienfaits et Conseils Pratiques"
 meta_title: "Ashwagandha en France : Bienfaits et Utilisations"
 description: "Découvrez les bienfaits de l'ashwagandha en France, ses usages, conseils et réponses à vos questions sur cette plante adaptogène."
-date: 2024-12-26
+date: 2024-12-29
 image: "/images/posts/mass1/ashwagandha-bio.webp"
 imageAlt: "Ashwagandha en France : Bienfaits et Utilisations"
 categories: ["Bien-etre naturel"]

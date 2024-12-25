@@ -8,7 +8,7 @@ imageAlt: "Vit B17 : bienfaits et mythes démystifiés"
 categories: ["Bien-etre naturel"]
 authors: ["Gerard Delao"]
 tags: []
-draft: true
+draft: false
 ---
 
 La recherche sur les vitamines et leurs effets potentiels sur la santé n'a jamais été aussi dynamique. Parmi les nombreux nutriments qui suscitent l'intérêt des scientifiques et du grand public, la vitamine B17, également connue sous le nom d'amygdaline ou de laetrile, occupe une place singulière. Souvent entourée de controverses et de mythes, elle revendique des propriétés incontournables, notamment dans le domaine de la lutte contre le cancer. Mais que savons-nous réellement d'elle ? Éclaircissons ensemble ce sujet fascinant.
