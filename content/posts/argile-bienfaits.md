@@ -2,7 +2,7 @@
 title: "Découverte des différentes argiles et leurs propriétés fascinantes"
 meta_title: "Argiles : Variétés et Propriétés Essentielles"
 description: "Plongez dans l'univers des argiles, leurs types variés et propriétés fascinantes, essentielles pour le bien-être naturel et la beauté."
-date: 2024-12-29
+date: 2025-12-29
 image: "/images/posts/mass1/argile-bienfaits.webp"
 imageAlt: "Argiles : Variétés et Propriétés Essentielles"
 categories: ["Bien-etre naturel"]

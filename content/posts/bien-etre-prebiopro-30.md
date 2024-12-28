@@ -2,7 +2,7 @@
 title: "Découvrez les Bienfaits d'Activa Bien-Être pour Votre Santé"
 meta_title: "[Activa Bien-Être : Enrichissez Votre Santé Naturellement]"
 description: "[Découvrez comment Activa Bien-Être peut améliorer votre santé et votre bien-être au quotidien grâce à ses bienfaits naturels et nutritionnels.]"
-date: 2024-12-29
+date: 2025-12-29
 image: "/images/posts/mass1/bien-etre-prebiopro-30.webp"
 imageAlt: "[Activa Bien-Être : Enrichissez Votre Santé Naturellement]"
 categories: ["Bien-etre naturel"]

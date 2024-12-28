@@ -2,7 +2,7 @@
 title: "Découvrez le Baume Phénicien : Histoire et Bienfaits Étonnants"
 meta_title: "Baume Phénicien : Histoire et Bienfaits Étonnants"
 description: "Découvrez l'histoire fascinante du Baume Phénicien et ses bienfaits pour la santé, la beauté et le bien-être."
-date: 2024-12-29
+date: 2025-12-29
 image: "/images/posts/mass1/baume-phenicien-150ml.webp"
 imageAlt: "Baume Phénicien : Histoire et Bienfaits Étonnants"
 categories: ["Bien-etre naturel"]

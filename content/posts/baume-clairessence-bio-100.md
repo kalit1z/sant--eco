@@ -2,7 +2,7 @@
 title: "Clairessence : Découvrez les Bienfaits et Usages Essentiels"
 meta_title: "Clairessence : Bienfaits et Usages Essentiels"
 description: "Explorez les bienfaits incontournables de Clairessence et apprenez à l'intégrer dans votre quotidien pour un bien-être total."
-date: 2024-12-29
+date: 2025-12-29
 image: "/images/posts/mass1/baume-clairessence-bio-100.webp"
 imageAlt: "Clairessence : Bienfaits et Usages Essentiels"
 categories: ["Bien-etre naturel"]

@@ -2,7 +2,7 @@
 title: "Découvrez les Bienfaits des Protéines Anti-Âge pour la Peau"
 meta_title: "Protéines Anti-Âge : Secrets pour une Peau Radieuse"
 description: "Découvrez comment les protéines anti-âge peuvent transformer votre routine de soins de la peau et combattre les signes du vieillissement."
-date: 2024-12-29
+date: 2025-12-29
 image: "/images/posts/mass1/anti-age-02-02.webp"
 imageAlt: "Protéines Anti-Âge : Secrets pour une Peau Radieuse"
 categories: ["Bien-etre naturel"]

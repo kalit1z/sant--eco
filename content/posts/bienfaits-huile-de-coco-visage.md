@@ -2,7 +2,7 @@
 title: "Visage Huile de Coco : Éclat et Soin Naturel pour votre Peau"
 meta_title: "Hydratation et Éclat : L'Huile de Coco pour le Visage"
 description: "Découvrez les bienfaits de l'huile de coco pour le visage. Soin naturel, hydratation et éclat au quotidien pour une peau rayonnante."
-date: 2024-12-29
+date: 2025-12-29
 image: "/images/posts/mass1/bienfaits-huile-de-coco-visage.webp"
 imageAlt: "Hydratation et Éclat : L'Huile de Coco pour le Visage"
 categories: ["Bien-etre naturel"]

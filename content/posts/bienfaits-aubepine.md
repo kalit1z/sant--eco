@@ -2,7 +2,7 @@
 title: "Baies d'Aubépine : Bienfaits, Recettes et Astuces Naturelles"
 meta_title: "Baies d'Aubépine : Bienfaits et Recettes"
 description: "Découvrez les bienfaits des baies d'aubépine, des recettes délicieuses et des astuces pratiques pour intégrer ce super-aliment dans votre quotidien."
-date: 2024-12-29
+date: 2025-12-29
 image: "/images/posts/mass1/bienfaits-aubepine.webp"
 imageAlt: "Baies d'Aubépine : Bienfaits et Recettes"
 categories: ["Jardin biodiversite"]

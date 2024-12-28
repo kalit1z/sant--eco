@@ -2,7 +2,7 @@
 title: "Découvrez les Bienfaits de la Boisson Aloe Vera pour Votre Santé"
 meta_title: "Bienfaits Boisson Aloe Vera pour la Santé"
 description: "Découvrez comment la boisson aloe vera peut améliorer votre santé, favoriser la digestion et revitaliser votre peau."
-date: 2024-12-29
+date: 2025-12-29
 image: "/images/posts/mass1/aloepure-aloe-vera-1.webp"
 imageAlt: "Bienfaits Boisson Aloe Vera pour la Santé"
 categories: ["Bien-etre naturel"]

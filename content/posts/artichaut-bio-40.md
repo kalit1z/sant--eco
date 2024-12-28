@@ -2,7 +2,7 @@
 title: "Découvrez les Prix Artichaut : Guide des Variétés et Coûts 2023"
 meta_title: "Prix Artichaut en 2023 : Tout ce qu'il faut savoir"
 description: "Explorez les prix des artichauts en 2023, les variétés disponibles et les tendances du marché. Des informations essentielles pour les amateurs de légumes."
-date: 2024-12-29
+date: 2025-12-29
 image: "/images/posts/mass1/artichaut-bio-40.webp"
 imageAlt: "Prix Artichaut en 2023 : Tout ce qu'il faut savoir"
 categories: ["Alimentation durable"]

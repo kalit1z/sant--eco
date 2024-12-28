@@ -2,7 +2,7 @@
 title: "Technique jambe en l'air : Obtenez un ventre plat facilement!"
 meta_title: "Technique jambe en l'air pour un ventre plat"
 description: "Découvrez comment la technique jambe en l'air peut vous aider à obtenir un ventre plat. Astuces et conseils pratiques pour tonifier votre ventre!"
-date: 2024-11-05
+date: 2024-12-30
 image: "/images/posts/mass1/aerophagie.webp"
 imageAlt: "Technique jambe en l'air pour un ventre plat"
 categories: ["Bien-etre naturel"]
