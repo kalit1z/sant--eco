@@ -2,7 +2,7 @@
 title: "Ginkgo Biloba Avis : Découvrez les Bienfaits et Opinions"
 meta_title: "Ginkgo Biloba Avis et Bienfaits"
 description: "Explorez les avis sur le ginkgo biloba, ses bienfaits pour la santé et les opinions des experts. Découvrez tout ce qu'il faut savoir."
-date: 2024-12-28
+date: 2025-01-29
 image: "/images/posts/mass1/bienfaits-ginkgo-biloba.webp"
 imageAlt: "Ginkgo Biloba Avis et Bienfaits"
 categories: ["Bien-etre naturel"]

@@ -2,7 +2,7 @@
 title: "Découvrez les Bienfaits de la Cure Aloe Vera pour Votre Santé"
 meta_title: "Cure Aloe Vera : Bienfaits et Utilisation"
 description: "Explorez les avantages de la cure d'aloe vera pour votre santé, ses applications et conseils pratiques pour l'intégrer à votre routine."
-date: 2024-12-30
+date: 2025-01-30
 image: "/images/posts/mass1/aloe-vera-bienfaits.webp"
 imageAlt: "Cure Aloe Vera : Bienfaits et Utilisation"
 categories: ["Bien-etre naturel"]

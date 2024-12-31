@@ -2,7 +2,7 @@
 title: "Découvrez les Vertus de l'Huile de Chanvre : Bienfaits Incontournables"
 meta_title: "Bienfaits de l'Huile de Chanvre : Guide Complet"
 description: "Explorez les vertus multiples de l'huile de chanvre pour la santé et le bien-être. Découvrez ses bienfaits, utilisations et réponses à vos questions."
-date: 2024-12-28
+date: 2025-01-29
 image: "/images/posts/mass1/bienfaits-huile-de-chanvre.webp"
 imageAlt: "Bienfaits de l'Huile de Chanvre : Guide Complet"
 categories: ["Bien-etre naturel"]

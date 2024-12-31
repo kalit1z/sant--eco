@@ -2,7 +2,7 @@
 title: "Inhalateur rhume : Soulagement rapide pour votre nez bouché"
 meta_title: "Inhalateur rhume : Remèdes rapides pour congestion"
 description: "Découvrez comment un inhalateur rhume peut soulager instantanément votre nez bouché. Techniques et conseils pratiques à appliquer dès maintenant."
-date: 2024-12-28
+date: 2025-01-29
 image: "/images/posts/mass1/bienfaits-thym-inhalation.webp"
 imageAlt: "Inhalateur rhume : Remèdes rapides pour congestion"
 categories: ["Bien-etre naturel"]

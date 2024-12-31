@@ -2,7 +2,7 @@
 title: "Découvrez l'Aroma Tic : Bienfaits et Astuces pour Tous les Amateurs"
 meta_title: "Aroma Tic : Bienfaits et Astuces pour Tous"
 description: "Explorez le monde de l'Aroma Tic et découvrez ses bienfaits, astuces pratiques et conseils d'experts pour en profiter pleinement."
-date: 2024-12-30
+date: 2025-01-30
 image: "/images/posts/mass1/alternativ-aroma-bio-15.webp"
 imageAlt: "Aroma Tic : Bienfaits et Astuces pour Tous"
 categories: ["Bien-etre naturel"]

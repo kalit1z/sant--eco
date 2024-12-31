@@ -2,7 +2,7 @@
 title: "Tout savoir sur la B12 adenosylcobalamine : bienfaits et sources"
 meta_title: "B12 Adenosylcobalamine : bienfaits et sources"
 description: "Découvrez les bienfaits de la B12 adenosylcobalamine, ses sources, et comment elle influence notre bien-être au quotidien."
-date: 2024-12-28
+date: 2025-01-29
 image: "/images/posts/mass1/bienfaits-vitamine-b12.webp"
 imageAlt: "B12 Adenosylcobalamine : bienfaits et sources"
 categories: ["Bien-etre naturel"]

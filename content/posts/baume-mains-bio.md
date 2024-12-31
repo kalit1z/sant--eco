@@ -2,7 +2,7 @@
 title: "Baume pour les mains : Le secret d'une peau douce et nourrie"
 meta_title: "Découvrez le baume pour les mains idéal"
 description: "Apprenez à choisir le meilleur baume pour les mains et à profiter de ses bienfaits pour une peau nourrie et douce."
-date: 2024-12-30
+date: 2025-01-30
 image: "/images/posts/mass1/baume-mains-bio.webp"
 imageAlt: "Découvrez le baume pour les mains idéal"
 categories: ["Bien-etre naturel"]

@@ -2,7 +2,7 @@
 title: "Découvrez les Bienfaits de la Tisane Pissenlit pour la Santé"
 meta_title: "Tisane de Pissenlit : Bienfaits et Utilisations"
 description: "Découvrez les incroyables bienfaits de la tisane de pissenlit pour votre santé et comment l'intégrer à votre quotidien."
-date: 2024-12-27
+date: 2025-01-27
 image: "/images/posts/mass1/bienfaits-du-pissenlit.webp"
 imageAlt: "Tisane de Pissenlit : Bienfaits et Utilisations"
 categories: ["Bien-etre naturel"]

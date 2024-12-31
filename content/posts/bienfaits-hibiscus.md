@@ -2,7 +2,7 @@
 title: "Découvrez l'Hibiscus L : Bienfaits, Cultivation et Recettes"
 meta_title: "Hibiscus L : Bienfaits, Cultivation et Recettes"
 description: "Explorez les bienfaits, la culture et des recettes de l'Hibiscus L. Tout ce que vous devez savoir sur cette plante fascinante."
-date: 2024-12-28
+date: 2025-01-29
 image: "/images/posts/mass1/bienfaits-hibiscus.webp"
 imageAlt: "Hibiscus L : Bienfaits, Cultivation et Recettes"
 categories: ["Jardin biodiversite"]

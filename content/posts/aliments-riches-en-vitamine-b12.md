@@ -2,7 +2,7 @@
 title: "Découvrez les Bienfaits de la B12 Adenosylcobalamine pour votre Santé"
 meta_title: "Bienfaits de la B12 Adenosylcobalamine : Guide Complet"
 description: "Explorez les avantages de la B12 adenosylcobalamine pour votre santé, ses sources alimentaires, et son rôle essentiel dans votre bien-être."
-date: 2024-12-28
+date: 2025-01-29
 image: "/images/posts/mass1/aliments-riches-en-vitamine-b12.webp"
 imageAlt: "Bienfaits de la B12 Adenosylcobalamine : Guide Complet"
 categories: ["Bien-etre naturel"]
