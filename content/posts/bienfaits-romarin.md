@@ -2,7 +2,7 @@
 title: "Découvrez les Bienfaits et la Beauté de la Fleur de Romarin"
 meta_title: "Fleur de Romarin : Bienfaits Inestimables"
 description: "Découvrez les multiples bienfaits et l'élégance de la fleur de romarin pour votre bien-être et votre jardin."
-date: 2025-01-02
+date: 2025-02-02
 image: "/images/posts/mass1/bienfaits-romarin.webp"
 imageAlt: "Fleur de Romarin : Bienfaits Inestimables"
 categories: ["Bien-etre naturel"]

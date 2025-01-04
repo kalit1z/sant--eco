@@ -2,13 +2,13 @@
 title: "Découvrez les Bienfaits d'un Régime Alimentaire aux Fruits"
 meta_title: "Régime alimentaire aux fruits : bienfaits pour la santé"
 description: "Explorez les avantages d'un régime alimentaire aux fruits, ses impacts sur la santé et des conseils pratiques pour l'adopter."
-date: 2025-01-30
+date: 2025-01-05
 image: "/images/posts/mass1/alimentation-frugivore-dangers.webp"
 imageAlt: "Régime alimentaire aux fruits : bienfaits pour la santé"
 categories: ["Alimentation durable"]
 authors: ["Aurelie Mateus"]
 tags: []
-draft: true
+draft: false
 ---
 
 La tendance vers un mode de vie plus sain prend de l'ampleur dans notre société moderne. Parmi les nombreuses options alimentaires, le régime basé sur la consommation de fruits se distingue par sa richesse nutritionnelle et ses effets bénéfiques sur la santé. Les fruits ne sont pas seulement délicieux ; ils représentent une source abondante de vitamines, de minéraux et d'antioxydants. Dans cet article, nous allons explorer les nombreux bienfaits d’un régime alimentaire constitué de fruits, les défis qu'il peut poser, ainsi que des conseils pratiques pour ceux qui souhaitent l'adopter.

@@ -2,7 +2,7 @@
 title: "Le Tableau de Teneur en Calcium des Fromages : Guide Complet"
 meta_title: "Calcium des Fromages : Tableau et Guide Pratique"
 description: "Découvrez tout sur la teneur en calcium des fromages. Ce guide complet vous aide à choisir les meilleurs fromages pour vos besoins nutritionnels."
-date: 2025-01-01
+date: 2025-02-01
 image: "/images/posts/mass1/aliments-riches-en-calcium.webp"
 imageAlt: "Calcium des Fromages : Tableau et Guide Pratique"
 categories: ["Bien-etre naturel"]

@@ -2,7 +2,7 @@
 title: "Découvrez les bienfaits du Flex Tonic pour votre bien-être"
 meta_title: "Flex Tonic : Bienfaits pour votre santé"
 description: "Explorez les bienfaits du Flex Tonic pour votre bien-être et votre santé articulaire avec notre guide complet."
-date: 2025-01-01
+date: 2025-02-01
 image: "/images/posts/mass1/bien-etre-articulaire.webp"
 imageAlt: "Flex Tonic : Bienfaits pour votre santé"
 categories: ["Bien-etre naturel"]

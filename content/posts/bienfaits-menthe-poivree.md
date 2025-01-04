@@ -2,7 +2,7 @@
 title: "Découvrez les Bienfaits de l'Huile Essentielle de Menthe Poivrée"
 meta_title: "Huile essentielle de menthe poivrée : bienfaits et usages"
 description: "Explorez les bienfaits de l'huile essentielle de menthe poivrée pour la santé et le bien-être. Découvrez ses usages, ses propriétés et plus encore."
-date: 2025-01-01
+date: 2025-02-01
 image: "/images/posts/mass1/bienfaits-menthe-poivree.webp"
 imageAlt: "Huile essentielle de menthe poivrée : bienfaits et usages"
 categories: ["Bien-etre naturel"]

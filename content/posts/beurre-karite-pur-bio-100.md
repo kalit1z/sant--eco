@@ -2,7 +2,7 @@
 title: "Pur Beurre de Karité : Les Bienfaits Essentiels à Découvrir"
 meta_title: "Pur Beurre de Karité : Bienfaits et Usages"
 description: "Découvrez les nombreux bienfaits du pur beurre de karité et comment l’utiliser pour votre peau et vos cheveux."
-date: 2025-01-01
+date: 2025-02-01
 image: "/images/posts/mass1/beurre-karite-pur-bio-100.webp"
 imageAlt: "Pur Beurre de Karité : Bienfaits et Usages"
 categories: ["Bien-etre naturel"]
