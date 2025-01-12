@@ -2,13 +2,13 @@
 title: "Oeuf de lump enceinte : Bienfaits et précautions à connaître"
 meta_title: "Oeuf de lump enceinte : Bienfaits et Risques"
 description: "Découvrez les bienfaits et les précautions à prendre concernant la consommation d'œufs de lump pendant la grossesse."
-date: 2025-01-29
+date: 2025-01-12
 image: "/images/posts/mass1/aliments-riches-en-vitamine-a.webp"
 imageAlt: "Oeuf de lump enceinte : Bienfaits et Risques"
 categories: ["Bien-etre naturel"]
 authors: ["Gerard Delao"]
 tags: []
-draft: true
+draft: false
 ---
 
 L'univers de la nutrition pendant la grossesse est rempli de contradictions et de questions cruciales à aborder pour la santé de la mère et de l'enfant. Parmi les aliments souvent évoqués, l'œuf de lump, délicatesse prisée des gourmets, suscite de nombreuses interrogations chez les femmes enceintes. Quelles sont les vertus nutritionnelles de cet aliment ? Peut-on le consommer sans risque durant la grossesse ? Ce guide complet vise à éclairer ces questions tout en offrant une analyse approfondie des bienfaits et des précautions à prendre à l'égard des œufs de lump.
