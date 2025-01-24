@@ -15,6 +15,9 @@ const PostSingle = ({ post, posts, authors, slug }) => {
 
   return (
     <>
+     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4432019948702503"
+          crossorigin="anonymous">
+        </script>
       <section className="section">
         <div className="container">
           <article className="text-center">
