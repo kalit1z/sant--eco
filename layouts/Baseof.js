@@ -27,6 +27,9 @@ const Base = ({
             meta_title ? meta_title : title ? title : config.site.title
           )}
         </title>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4432019948702503"
+          crossorigin="anonymous">
+        </script>
 
         {/* canonical url */}
         {canonical && <link rel="canonical" href={canonical} itemProp="url" />}
