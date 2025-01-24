@@ -20,7 +20,6 @@ date_modified: "2024-09-21"
 <p>
     Ce guide vous enseignera également les fondamentaux de la phytothérapie, vous permettant de tirer le meilleur parti des plantes médicinales. Découvrez comment préparer des infusions, des décoctions, et des teintures mères pour soutenir votre bien-être au quotidien. Avec "Ma Pharmacie Aroma", vous serez en mesure de constituer votre propre pharmacie naturelle, réduisant ainsi votre dépendance aux produits pharmaceutiques conventionnels.
 </p>
-<a href="https://www.fastercook.fr/eco">Découvrir Ma Pharmacie Aroma --></a>
 
 <h2>Le Code du Potager</h2>
 <p>
@@ -35,7 +34,6 @@ date_modified: "2024-09-21"
 <p>
     En suivant les principes énoncés dans ce livre, vous serez en mesure de produire des aliments sains et savoureux, tout en réduisant considérablement votre empreinte écologique. "Le Code du Potager" vous guidera également dans la conservation et la transformation de vos récoltes, vous permettant de profiter de vos produits tout au long de l'année.
 </p>
-<a href="https://www.fastercook.fr/letter-potager">Obtenir Le Code du Potager --></a>
 
 <h2>La santé au naturel : Une approche holistique du bien-être</h2>
 <p>

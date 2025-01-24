@@ -9,10 +9,6 @@
       "url": "/a-propos"
     },
     {
-      "name": "En apprendre plus",
-      "url": "https://www.fastercook.fr/eco"
-    },
-    {
       "name": "Catégories",
       "url": "",
       "hasChildren": true,
