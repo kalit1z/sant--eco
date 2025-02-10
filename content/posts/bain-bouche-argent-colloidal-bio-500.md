@@ -2,7 +2,7 @@
 title: "Bain de bouche argent colloïdal : bienfaits et utilisations"
 meta_title: "Bain de bouche à l'argent colloïdal : effets et avantages"
 description: "Découvrez les bienfaits du bain de bouche à l'argent colloïdal pour votre santé bucco-dentaire et son utilisation correcte."
-date: 2025-01-29
+date: 2025-02-29
 image: "/images/posts/mass1/bain-bouche-argent-colloidal-bio-500.webp"
 imageAlt: "Bain de bouche à l'argent colloïdal : effets et avantages"
 categories: ["Bien-etre naturel"]

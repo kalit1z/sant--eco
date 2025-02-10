@@ -2,7 +2,7 @@
 title: "Extinction de Voix : Les Meilleures Huiles Essentielles à Essayer"
 meta_title: "Huiles essentielles contre l'extinction de voix"
 description: "Découvrez comment les huiles essentielles peuvent soulager l'extinction de voix. Conseils et recettes pour une voix retrouvée."
-date: 2025-01-29
+date: 2025-02-29
 image: "/images/posts/mass1/aphone.webp"
 imageAlt: "Huiles essentielles contre l'extinction de voix"
 categories: ["Bien-etre naturel"]

@@ -2,7 +2,7 @@
 title: "Meno Actifs Avis : Découvrez l’efficacité pour votre bien-être"
 meta_title: "Meno Actifs : un avis complet sur vos besoins"
 description: "Découvrez l'avis sur Meno Actifs et ses effets sur le bien-être pendant la ménopause. Que disent les utilisateurs ?"
-date: 2025-01-29
+date: 2025-02-29
 image: "/images/posts/mass1/bien-etre-menopause.webp"
 imageAlt: "Meno Actifs : un avis complet sur vos besoins"
 categories: ["Bien-etre naturel"]

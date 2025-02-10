@@ -2,7 +2,7 @@
 title: "Explorez la Formation Apithérapie : Devenez Expert en Bien-être"
 meta_title: "Formation Apithérapie : Devenez Expert en Bien-être"
 description: "Découvrez la formation en apithérapie et apprenez à utiliser les produits de la ruche pour améliorer votre bien-être et celui des autres."
-date: 2025-01-29
+date: 2025-02-29
 image: "/images/posts/mass1/apitherapie.webp"
 imageAlt: "Formation Apithérapie : Devenez Expert en Bien-être"
 categories: ["Bien-etre naturel"]

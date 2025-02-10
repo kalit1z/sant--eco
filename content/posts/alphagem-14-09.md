@@ -2,7 +2,7 @@
 title: "Découvrez Alpha Gem : La Révolution des Bijoux Éthiques"
 meta_title: "Bijoux éthiques : Découvrez Alpha Gem"
 description: "Plongez dans l'univers d'Alpha Gem, la marque qui révolutionne le secteur des bijoux éthiques avec des pratiques durables."
-date: 2025-01-30
+date: 2025-02-30
 image: "/images/posts/mass1/alphagem-14-09.webp"
 imageAlt: "Bijoux éthiques : Découvrez Alpha Gem"
 categories: ["Bien-etre naturel"]

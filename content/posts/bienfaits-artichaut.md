@@ -2,7 +2,7 @@
 title: "Découvrez les Bienfaits de la Feuille d’Artichaut pour la Santé"
 meta_title: "Bienfaits Feuille Artichaut : 5 Avantages Santé"
 description: "Explorez les incroyables bienfaits de la feuille d’artichaut pour votre santé. Apprenez tout sur ses propriétés médicinales et ses usages."
-date: 2025-01-30
+date: 2025-02-30
 image: "/images/posts/mass1/bienfaits-artichaut.webp"
 imageAlt: "Bienfaits Feuille Artichaut : 5 Avantages Santé"
 categories: ["Bien-etre naturel"]

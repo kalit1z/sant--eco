@@ -2,13 +2,13 @@
 title: "Découverte du Cuivre et Zinc : Bienfaits et Usages Essentiels"
 meta_title: "Cuivre et Zinc : leurs bienfaits essentiels"
 description: "Découvrez les bienfaits du cuivre et du zinc pour la santé et leur utilisation dans votre quotidien."
-date: 2025-02-01
+date: 2025-02-11
 image: "/images/posts/mass1/aliments-riches-en-cuivre.webp"
 imageAlt: "Cuivre et Zinc : leurs bienfaits essentiels"
 categories: ["Bien-etre naturel"]
 authors: ["Gerard Delao"]
 tags: []
-draft: true
+draft: false
 ---
 
 Le cuivre et le zinc, deux oligo-éléments souvent négligés, occupent pourtant une place essentielle dans notre santé et notre bien-être. Bien qu'ils soient présents en petites quantités dans l'organisme, leur rôle est loin d’être anodin. Ils sont impliqués dans une multitude de fonctions biologiques, du maintien de notre système immunitaire à la régénération de nos cellules. Dans cet article, nous explorons en profondeur les bienfaits et usages du cuivre et du zinc, et comment ces nutriments peuvent transformer votre quotidien.

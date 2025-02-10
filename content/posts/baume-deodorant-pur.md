@@ -2,7 +2,7 @@
 title: "Découvrez les Jolies Baumes : Beauté et Bien-être au Naturel"
 meta_title: "Baumes naturels : beauté et bien-être"
 description: "Plongez dans l'univers des jolies baumes et découvrez leurs bienfaits pour votre peau et votre bien-être."
-date: 2025-01-30
+date: 2025-02-30
 image: "/images/posts/mass1/baume-deodorant-pur.webp"
 imageAlt: "Baumes naturels : beauté et bien-être"
 categories: ["Bien-etre naturel"]
