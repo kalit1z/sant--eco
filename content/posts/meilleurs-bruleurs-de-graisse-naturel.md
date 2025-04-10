@@ -12,6 +12,9 @@ draft: false
 
 Vous cherchez à perdre du poids de façon naturelle et durable ? Vous êtes au bon endroit ! Dans cet article, je vais vous dévoiler les meilleurs brûleurs de graisse naturels et vous expliquer comment les intégrer efficacement dans votre quotidien. Fini les régimes drastiques et les pilules miracles, place aux solutions saines et équilibrées !
 
+[l’efficacité des brûleurs de graisse selon europe1](https://www.europe1.fr/sante/meilleur-bruleur-de-graisse)
+
+
 ## Qu'est-ce qui provoque la prise de poids ?
 
 Avant de parler des solutions, il est important de comprendre les causes de la prise de poids. De mon expérience, j'ai constaté que plusieurs facteurs entrent en jeu :
